@@ -1,0 +1,3599 @@
+input,answer
+"Context: The way to come up with good startup ideas is to take a step back.
+Instead of making a conscious effort to think of startup ideas,
+turn your mind into the type that startup ideas form in without any
+conscious effort.  In fact, so unconsciously that you don't even
+realize at first that they're startup ideas. This is not only possible, it's how Apple, Yahoo, Google, and
+Facebook all got started.  None of these companies were even meant
+to be companies at first.  They were all just side projects.  The
+best startups almost have to start as side projects, because great
+ideas tend to be such outliers that your conscious mind would reject
+them as ideas for companies
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context:  About 20% of the
+startups we've funded have had a founder leave.  It happens so often
+that we've reversed our attitude to vesting.  We still don't require
+it, but now we advise founders to vest so there will be an orderly
+way for people to quit. A founder leaving doesn't necessarily kill a startup, though.  Plenty
+of successful startups have had that happen. [ 11 ] Fortunately it's
+usually the least committed founder who leaves.  If there are three
+founders and one who was lukewarm leaves, big deal.  If you have
+two and one leaves, or a guy with critical technical skills leaves,
+that's more of a problem.  But even that is survivable.  Blogger
+got down to one person, and they bounced back
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary strategy Paul Graham suggests for addressing the issue of founder departures?
+A: Founders should advise their founders to vest so there will be an orderly way for people to quit.
+
+---
+
+Q: What is the most significant factor that contributes to the frequent occurrence of founder departures?
+A:  If there are three founders and one who was lukewarm leaves, big deal. If you have two and one leaves, or a guy with critical technical skills leaves, that's more of a problem.
+
+---
+
+Q: How does Paul Graham view the impact of a founder leaving on a startup?"
+"Context:  For over a decade, every hacker who'd ever
+had to process payments online knew how painful the experience was.
+Thousands of people must have known about this problem.  And yet
+when they started startups, they decided to build recipe sites, or
+aggregators for local events.  Why?  Why work on problems few care
+much about and no one will pay for, when you could fix one of the
+most important components of the world's infrastructure?  Because
+schlep blindness prevented people from even considering the idea
+of fixing payments. Probably no one who applied to Y Combinator to work on a recipe
+site began by asking ""should we fix payments, or build a recipe
+site?"" and chose the recipe site
+
+Question: <question>
+Answer:",<answer>
+"Context: Afterward
+you realize that using the new operator would simplify the design  
+of another part of the program, and so on.
+Language and program evolve together.
+Like the border between two warring states,
+the boundary between language and program is drawn and redrawn,
+until eventually it comes to rest along the mountains and rivers,
+the natural frontiers of your problem.
+In the end your program will look as if the language had been
+designed for it.
+And when language and
+program fit one another well, you end up with code which is
+clear, small, and efficient. It's worth emphasizing that bottom-up design doesn't mean
+just writing the same program in a different order
+
+Question: <question>
+Answer:","<answer>
+```
+Q: How does the author describe the relationship between language and program?
+A: The author describes the relationship between language and program as a gradual process of drawing and redrawing the boundary between them, until it comes to rest along the mountains and rivers.
+```
+Q: What is the author's main point about the relationship between language and program?
+A: The author's main point is that language and program evolve together, and that the boundary between them is drawn and redrawn until it comes to rest along the mountains and rivers.
+```
+Q:  What does the author mean by ""bottom-"
+"Context:  He walks right by them, dressed up as an
+old man on crutches, and they never suspect him. Our secret weapon was similar.  We wrote our software in a weird
+AI language, with a bizarre syntax full of parentheses.  For years
+it had annoyed me to hear Lisp described that way.  But now it
+worked to our advantage.  In business, there is nothing more valuable
+than a technical advantage your competitors don't understand.  In
+business, as in war, surprise is worth as much as force. And so, I'm a little embarrassed to say, I never said anything
+publicly about Lisp while we were working on Viaweb
+
+Question: <question>
+Answer:","<answer>
+---
+**Q: What is the primary advantage of using Lisp in the context of the excerpt?**
+A: The primary advantage of using Lisp was that it was a weird AI language with a bizarre syntax full of parentheses.
+
+**Q: Why is it important for the author to keep Lisp a secret from their competitors?**
+A:  The author's reason for keeping Lisp a secret is that it was a technical advantage that their competitors don't understand, and that in business, surprise is worth as much as force.**
+
+**Q:  What does the author mean by ""surprise is worth"
+"Context:  If a filter has never seen the
+token ""xxxporn"" before it will have an individual spam
+probability of .4, whereas ""xxx"" and ""porn"" individually
+have probabilities (in my corpus) of .9889 and .99
+respectively, and a combined probability of .9998. I expect decomposing domain names to become more
+important as spammers are gradually forced to stop using
+incriminating words in the text of their messages.  (A url
+with an ip address is of course an extremely incriminating sign,
+except in the mail of a few sysadmins.) It might be a good idea to have a cooperatively maintained
+list of urls promoted by spammers
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the combined probability of a filter seeing ""xxxporn"" as a token?
+A: The combined probability of a filter seeing ""xxxporn"" as a token is.9998.
+
+Q: Why do you think decomposing domain names will become more important as spammers are forced to stop using incriminating words?
+A: Because decomposing domain names become more important as spammers are gradually forced to stop using incriminating words in the text of their messages.
+
+Q: What is the probability of a filter seeing ""xxxporn"" as a token, given that ""xxx"" and ""porn"" are individually"
+"Context: At Viaweb we were forced to operate like a consulting company
+initially, because we were so desperate for users that we'd offer
+to build merchants' sites for them if they'd sign up. 
+But we never charged for such work, because we didn't want them to
+start treating us like actual consultants, and calling us every
+time they wanted something changed on their site.  We knew we had
+to stay a product company, because only
+that scales. 8. Avoid inexperienced investors. Though novice investors seem unthreatening they can be the most
+dangerous sort, because they're so nervous.  Especially in
+proportion to the amount they invest
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```text
+Excerpt:
+At Viaweb we were forced to operate like a consulting company
+initially, because we were so desperate for users that we'd offer
+to build merchants' sites for them if they'd sign up. 
+But we never charged for such work, because we didn't want them to
+start treating us like actual consultants, and calling us every
+time they wanted something changed on their site.  We knew we had
+to stay a product company, because only
+that scales. 8. Avoid inexperienced investors."
+"Context: Thanks to Sarah Harlin for reading drafts of this; Daniel Giffin (who is 
+also writing the production Arc interpreter) for several good ideas about
+filtering and for creating our mail infrastructure; Robert Morris,
+Trevor Blackwell and Erann Gat for many discussions about spam; Raph 
+Levien for advice about trust metrics;  and Chip Coldwell 
+and Sam Steingold for advice about statistics. You'll find this essay and 14 others in Hackers & Painters . More Info:
+
+Question: <question>
+Answer:","<answer>
+---
+
+**Q: What is the primary goal of these individuals contributing to this project?**
+A: They are all contributing to the project by providing feedback, suggestions, and expertise on various aspects of it, including filtering, infrastructure, spam, trust metrics, and statistics.
+
+---
+
+**Q: Why is the author particularly grateful to Sarah Harlin?**
+A: The author is particularly grateful to Sarah Harlin for reading drafts of this essay, and she is also collaborating with Daniel Giffin on the production arc interpreter.
+
+---
+
+**Q: What are some specific examples of the advice provided by the individuals mentioned?"
+"Context: [ 2 ] In fact, it may be good for angels that there are more people doing
+angel-sized deals, because if angel rounds become more legitimate,
+then startups may start to opt for angel rounds even when they
+could, if they wanted, raise series A rounds from VCs.  One reason
+startups prefer series A rounds is that they're more prestigious.
+But if angel investors become more active and better known, they'll
+increasingly be able to compete with VCs in brand. Of course, prestige isn't the main reason to prefer a series A
+round.  A startup will probably get more attention from investors
+in a series A round than an angel round
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context:  But adding this ability
+to raw brainpower is like adding tin to copper.  The result is
+bronze, which is so much harder that it seems a different metal. A hacker who has learned what to make, and not just how to make,
+is extraordinarily powerful.  And not just at making money: look
+what a small group of volunteers has achieved with Firefox. Doing an Artix teaches you to make something people want in the
+same way that not drinking anything would teach you how much you
+depend on water.  But it would be more convenient for all involved
+if the Summer Founders didn't learn this on our dime—if they could
+skip the Artix phase and go right on to make something customers
+wanted
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary difference between adding raw brainpower to a system and adding tin to copper?
+A:  Adding raw brainpower is like adding tin to copper, which results in bronze, a much more complex and difficult outcome.
+---
+
+Q: What is the significance of the Summer Founders' approach to learning, and why is it important?
+A: The Summer Founders' approach to learning, skipping the Artix phase and going straight to making something customers wanted, is significant because it allows for a more efficient and convenient way to achieve results.
+---
+
+Q:  How does the concept of """
+"Context:  The
+Pebbles assembled the first several hundred watches themselves. If
+they hadn't gone through that phase, they probably wouldn't have
+sold $10 million worth of watches when they did go on Kickstarter. Like paying excessive attention to early customers, fabricating
+things yourself turns out to be valuable for hardware startups.
+You can tweak the design faster when you're the factory, and you
+learn things you'd never have known otherwise
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the significance of the Pebbles assembling watches themselves?
+A: Building the watches themselves was significant because it demonstrated that
+they could create value through hardware startups, and it turned out
+to be valuable for sales.
+
+---
+
+Q: How did the Pebbles' approach to manufacturing affect their ability to
+sell watches?
+A:  The Pebbles' approach to manufacturing allowed them to tweak the design
+faster when they were the factory, and they learned things they'd never
+have known otherwise.
+---
+
+Q:  What is the core principle or lesson highlighted by the excerpt?"
+"Context: Bring Back Moore's Law The last 10 years have reminded us what Moore's Law actually says.
+Till about 2002 you could safely misinterpret it as promising that
+clock speeds would double every 18 months.  Actually what it says
+is that circuit densities will double every 18 months.  It used to
+seem pedantic to point that out.  Not any more.  Intel can no longer
+give us faster CPUs, just more of them. This Moore's Law is not as good as the old one
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+
+---
+
+Q: What is the core of Moore's Law as described in the excerpt?
+A:  The core of Moore's Law is that circuit densities will double every 18 months.
+
+Q: Why was it initially perceived as a promise of faster clock speeds?
+A:  It was initially perceived as a promise that clock speeds would double every 18 months.
+
+Q: What does Intel's statement about CPUs imply about the nature of Moore's Law?
+A:  Intel can no longer give us faster CPUs, just more"
+"Context:  But in general, for
+application software, you want to be using the most powerful
+(reasonably efficient) language you can get, and using anything
+else is a mistake, of exactly the same kind, though possibly in a
+lesser degree, as programming in machine language. You can see that machine language is very low level.  But, at least
+as a kind of social convention, high-level languages are often all
+treated as equivalent.  They're not.  Technically the term ""high-level
+language"" doesn't mean anything very definite.  There's no dividing
+line with machine languages on one side and all the high-level
+languages on the other
+
+Question: <question>
+Answer:","<answer>
+---
+**Q: What is the primary concern Paul Graham raises regarding the use of high-level languages in software development?**
+**A:** High-level languages are not equivalent to machine languages, and they are often treated as the same thing, which is a mistake.
+
+---
+**Q: What is the distinction between ""high-level"" and ""machine language"" as described in the excerpt?**
+**A:** High-level languages are not equivalent to machine languages, and they are often treated as the same thing, which is a mistake.
+---
+**Q: Why does Paul Graham suggest using the most"
+"Context:  You can find groups near you through the Angel Capital Association . [ 3 ] However, most angel investors don't belong to these groups.  In
+fact, the more prominent the angel, the less likely they are to
+belong to a group. Some angel groups charge you money to pitch your idea to them.
+Needless to say, you should never do this. One of the dangers of taking investment from individual angels,
+rather than through an angel group or investment firm, is that they
+have less reputation to protect.  A big-name VC firm will not screw
+you too outrageously, because other founders would avoid them if
+word got out.  With individual angels you don't have this protection,
+as we found to our dismay in our own startup
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+Q: What is the primary danger of taking investment from individual angels?
+A: Individual angels don't have the reputation to protect, which is a big-name VC firm will not screw you too outrageously, because other founders would avoid them if word got out.
+Q: Why does the author suggest avoiding individual angel groups?
+A: The author suggests avoiding individual angel groups because they have less reputation to protect.
+---
+
+Q: What is the main focus of the excerpt?
+A: The main focus of the excerpt is the dangers of taking"
+"Context: August 2008 Raising money is the second hardest part of starting a startup.
+The hardest part is making something people want: most startups
+that die, die because they didn't do that.  But the second biggest
+cause of death is probably the difficulty of raising money.
+Fundraising is brutal. One reason it's so brutal is simply the brutality of markets.  People
+who've spent most of their lives in schools or big companies may
+not have been exposed to that.  Professors and bosses usually feel
+some sense of responsibility toward you; if you make a valiant
+effort and fail, they'll cut you a break.  Markets are less forgiving.
+Customers don't care how hard you worked, only whether you solved
+their problems
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```
+Q: Why do people find fundraising so brutal?
+A: Because people who've spent most of their lives in schools or big companies
+may not have been exposed to that.
+Q: What is the biggest cause of death for startups?
+A: The difficulty of raising money.
+Q: How does the market environment affect fundraising?
+A: It's less forgiving than it is for people who've spent most of their lives in schools or big companies.
+Q: What does the excerpt suggest about the importance of solving customer problems"
+"Context:  So when you're not in fundraising mode, you should take
+money from investors only if they require no convincing, and are
+willing to invest on terms you'll take without negotiation.  For
+example, if a reputable investor is willing to invest on a convertible
+note, using standard paperwork, that is either uncapped or capped
+at a good valuation, you can take that without having to think. [ 3 ] The terms will be whatever they turn out to be in your next
+equity round.  And ""no convincing"" means just that: zero time spent
+meeting with investors or preparing materials for them
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the key principle behind the advice given in this excerpt?
+A: The key principle is to take money from investors only when they are willing to invest on terms you'll take without negotiation, and are not requiring convincing.
+---
+
+Q:  Why is it important to avoid ""no convincing""?
+A: It's important to avoid ""no convincing"" because it means you have to spend time meeting with investors and preparing materials for them, which is unnecessary.
+---
+
+Q:  What does the phrase ""uncapped or capped at a good valuation"" refer to in the context of a"
+"Context: How do you find users to recruit manually?  If you build something
+to solve your own problems , then
+you only have to find your peers, which is usually straightforward.
+Otherwise you'll have to make a more deliberate effort to locate
+the most promising vein of users.  The usual way to do that is to
+get some initial set of users by doing a comparatively untargeted
+launch, and then to observe which kind seem most enthusiastic, and
+seek out more like them.  For example, Ben Silbermann noticed that
+a lot of the earliest Pinterest users were interested in design,
+so he went to a conference of design bloggers to recruit users, and
+that worked well
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary approach to finding users for a product that you've built?
+A: The excerpt suggests that the primary approach to finding users for a product is to start with a relatively untargeted launch and observe which users are most enthusiastic.
+
+---
+
+Q:  What is the role of an initial set of users in the recruitment process?
+A:  An initial set of users is crucial because it allows the developer to identify a ""most promising vein of users"" and then seek out more like them.
+
+---
+
+Q: How does the excerpt explain the process of finding users?
+A"
+"Context:  It was easy to
+tell how smart they were, and most people reading this will be over
+that threshold.  The hard part was predicting how tough and ambitious they would become.  There
+may be no one who has more experience at trying to predict that,
+so I can tell you how much an expert can know about it, and the
+answer is: not much.  I learned to keep a completely open mind about
+which of the startups in each batch would turn out to be the stars. The founders sometimes think they know. Some arrive feeling sure
+they will ace Y Combinator just as they've aced every one of the (few,
+artificial, easy) tests they've faced in life so far
+
+Question: <question>
+Answer:","<answer>
+**
+
+Q: How did you approach the challenge of predicting the future success of startups?
+A: I learned to keep a completely open mind about which of the startups in each batch would turn out to be the stars.
+
+**Q: What is the key takeaway from this excerpt about the process of assessing startup success?
+A: Not much.
+**
+
+**Q: What does the excerpt suggest about the nature of expertise in this context?
+A: Experts can know a lot about it, but they don't have much insight into the future.
+**
+
+**Q:  What is the relationship between the founders"
+"Context: I explained this as code to show a couple of important details.
+I want to bias the probabilities slightly to avoid false
+positives, and by trial and error I've found that a good
+way to do it is to double all the numbers in good .
+This helps to distinguish between words that occasionally
+do occur in legitimate email and words that almost never do. 
+I only consider words that occur more than five times in
+total (actually, because of the doubling, occurring three 
+times in nonspam mail would be enough).  And then there is
+the question of what probability to assign to words that
+occur in one corpus but not the other.  Again by trial and   
+error I chose .01 and .99
+
+Question: <question>
+Answer:","<answer>
+```python
+Q: What is the strategy used to bias the probabilities of words in spam emails?
+A: The strategy used is to double all the numbers in the word ""good"" to avoid false positives.
+```
+Q: What is the method used to determine the probability of words that occur in one corpus but not the other?
+A: The method used is to consider words that occur more than five times in total, and then assign a probability of.01 and.99.
+```python
+Q: What is the purpose of doubling the numbers in ""good"" to achieve the described strategy?
+A"
+"Context:  The question is not whether
+you need it, but whether it brings any advantage at all.
+Because anything that brings an advantage will give your competitors
+an advantage over you if they do it and you don't.  So if you hear
+someone saying ""we don't need to be in Silicon Valley,"" that use
+of the word ""need"" is a sign they're not even thinking about the
+question right. And while startup hubs are as powerful magnets as ever, the increasing
+cheapness of starting a startup means the particles they're attracting
+are getting lighter.  A startup now can be just a pair of 22 year
+old guys.  A company like that can move much more easily than one
+with 10 people, half of whom have kids
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the core argument of the excerpt?
+A: The core argument of the excerpt is that simply having a startup hub is not enough; you need to ask whether it brings any advantage.
+---
+
+Q: Why do you think the author is using the phrase ""need"" in this context?
+A: The author is using the phrase ""need"" in this context to suggest that someone is not thinking critically about the benefits of being in a startup hub.
+---
+
+Q: What is the implication of the increasing cost of starting a startup?
+A: The increasing cost of starting a startup means the"
+"Context:  There are plenty of people
+as smart as Bill Gates who achieve nothing. In most domains, talent is overrated compared to determination—partly
+because it makes a better story, partly because it gives onlookers
+an excuse for being lazy, and partly because after a while determination
+starts to look like talent. I can't think of any field in which determination is overrated, but
+the relative importance of determination and talent probably do
+vary somewhat.  Talent probably matters more in types of work that
+are purer, in the sense that one is solving mostly a single type
+of problem instead of many different types
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason why determination is overrated in some fields?
+A: Because it makes a better story, partly because it gives onlookers an excuse for being lazy, and partly because after a while determination
+starts to look like talent.
+---
+
+Q: How does the author's view on talent compare to the view of determination?
+A: The author believes that talent probably matters more in types of work that are purer, in the sense that one is solving mostly a single type of problem instead of many different types.
+---
+
+Q: What is the author's argument about the relative importance"
+"Context:  If you find yourself saying a sentence that
+ends with ""but we're going to keep working on the startup,"" you are
+in big trouble.  Bob's going to grad school, but we're going to
+keep working on the startup.  We're moving back to Minnesota, but
+we're going to keep working on the startup.  We're taking on some
+consulting projects, but we're going to keep working on the startup.
+You may as well just translate these to ""we're giving up on the
+startup, but we're not willing to admit that to ourselves,"" because
+that's what it means most of the time.  A startup is so hard that
+working on it can't be preceded by ""but."" In particular, don't go to graduate school, and don't start other
+projects
+
+Question: <question>
+Answer:",<answer>
+"Context: Number of users may not be the perfect test, but it will 
+be very close.  It's what acquirers care about.  It's what 
+revenues depend on.  
+It's what makes competitors unhappy.
+It's what impresses reporters, and potential
+new users.  Certainly it's a better test than your a priori
+notions of what problems are important to solve, no matter how
+technically adept you are. Among other things, treating a startup as an optimization
+problem will help you avoid another
+pitfall that VCs worry about, and rightly-- taking a long time
+to develop a product.  Now we can recognize this as something
+hackers already know to avoid: premature optimization.  Get a version 
+1.0 out there as soon as you can
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What is the primary reason why a startup's number of users is a good test?
+A: It's what acquirers care about, it's what revenues depend on, and it's what makes competitors unhappy.
+
+Q:  According to the excerpt, what is a critical mistake to avoid when developing a startup?
+A: Taking a long time to develop a product.
+
+---
+Q:  The excerpt describes the number of users as a test. What does it mean to treat a startup as an optimization problem?
+A: It means treating a startup as something hackers already know"
+"Context: In Robert's defense, he was skeptical about Artix.  I dragged him
+into it. [ 3 ] But there were moments when he was optimistic.  And
+if we, who were 29 and 30 at the time, could get excited about such
+a thoroughly boneheaded idea, we should not be surprised that hackers
+aged 21 or 22 are pitching us ideas with little hope of making money. The Still Life Effect Why does this happen?  Why do good hackers have bad business ideas? Let's look at our case.  One reason we had such a lame idea was
+that it was the first thing we thought of.  I was in New York trying
+to be a starving artist at the time (the starving part is actually
+quite easy), so I was haunting galleries anyway
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```
+
+Q: Why do good hackers have bad business ideas?
+A:  The excerpt suggests that good hackers have bad business ideas because they were initially thinking of a ""first thing"" and had no hope of making money.  The ""starving artist"" background adds to the impression that they were not particularly skilled at business.
+Q: What was the role of Robert Graham in the development of the idea?
+A: Robert Graham was involved in the development of the idea, dragging him into it.
+Q: What was the context of the excerpt?"
+"Context:  And then a second later I realized that without
+Julian, Viaweb would never have made it.  So even though it was a
+good deal for him, it was a good deal for us too.  That's why I
+knew there was room for something like Y Combinator. Initially we didn't have what turned out to be the most important
+idea: funding startups synchronously, instead of asynchronously as
+it had always been done before.  Or rather we had the idea, but we
+didn't realize its significance.  We decided very early 
+that the first thing we'd do would
+be to fund a bunch of startups over the coming summer.  But we
+didn't realize initially that this would be the way we'd do all our
+investing
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What was the primary reason for the success of Viaweb?
+A: The success of Viaweb was due to the fact that Julian,
+who was a key figure in the project, was instrumental in its
+development.
+
+Q: What was the initial approach to funding startups?
+A: Initially, the team didn't have the most important idea about
+funding startups synchronously. They decided to fund a bunch of
+startups over the coming summer.
+
+---
+Q: Why did the team decide to fund a bunch of startups over the coming summer?
+A: The team decided to fund a bunch"
+"Context:  Users
+train the search: you can start out finding matches based on mere
+textual similarity, and as users buy more stuff the search results
+get better and better. Jerry didn't seem to care.  I was confused.  I was showing him
+technology that extracted the maximum value from search traffic,
+and he didn't care?  I couldn't tell whether I was explaining it
+badly, or he was just very poker faced. I didn't realize the answer till later, after I went to work at
+Yahoo.  It was neither of my guesses.  The reason Yahoo didn't care
+about a technique that extracted the full value of traffic was that
+advertisers were already overpaying for it.  If Yahoo merely extracted
+the actual value, they'd have made less
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What was the primary concern of Jerry in the context of the search algorithm?
+A: Jerry was concerned that the search algorithm was not efficiently extracting the maximum value from search traffic.
+
+Q: Why did Jerry not care about the search algorithm's technique?
+A: Jerry didn't care because advertisers were already overpaying for it.
+
+Q: What was the main implication of the excerpt?
+A: The excerpt implies that the search algorithm was not effectively extracting the full value from search traffic.
+
+---"
+"Context:  Python copies even features
+that many Lisp hackers consider to be mistakes.
+You could translate simple Lisp programs into Python line for line.
+It's 2002, and programming languages have almost caught up 
+with 1958. Catching Up with Math What I mean is that
+Lisp was first discovered by John McCarthy in 1958,
+and popular programming languages are only now
+catching up with the ideas he developed then. Now, how could that be true?  Isn't computer technology something
+that changes very rapidly?  I mean, in 1958, computers were
+refrigerator-sized behemoths with the processing power of    
+a wristwatch
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+
+Q: How did Lisp evolve into a programming language?
+A: Lisp was first discovered by John McCarthy in 1958, and popular programming languages are only now catching up with the ideas he developed then.
+Q: Why do computers have so much more processing power now than they did in 1958?
+A: Lisp was first discovered by John McCarthy in 1958, and popular programming languages are only now catching up with the ideas he developed then.
+
+Q: What is the significance of the excerpt?"
+"Context: [ 6 ] Some super-angels seem to care about valuations.  Several turned
+down YC-funded startups after Demo Day because their valuations
+were too high.  This was not a problem for the startups; by definition
+a high valuation means enough investors were willing to accept it.
+But it was mysterious to me that the super-angels would quibble
+about valuations.  Did they not understand that the big returns
+come from a few big successes, and that it therefore mattered far
+more which startups you picked than how much you paid for them? After thinking about it for a while and observing certain other
+signs, I have a theory that explains why the super-angels may be
+smarter than they seem
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+**
+Q: <question>
+A: <answer>
+...**
+
+Here's the excerpt:
+
+[ 6 ] Some super-angels seem to care about valuations.  Several turned
+down YC-funded startups after Demo Day because their valuations
+were too high.  This was not a problem for the startups; by definition
+a high valuation means enough investors were willing to accept it.
+But it was mysterious to me that the super-angels would quibble
+about valuations.  Did they not understand that the big returns"
+"Context:   So maybe hacking does require some special ability to focus.
+Perhaps great hackers can load a large amount of context into their
+head, so that when they look at a line of code, they see not just
+that line but the whole program around it.  John McPhee
+wrote that Bill Bradley's success as a basketball player was due
+partly to his extraordinary peripheral vision.  ""Perfect'' eyesight
+means about 47 degrees of vertical peripheral vision.  Bill Bradley
+had 70; he could see the basket when he was looking at the floor.
+Maybe great hackers have some similar inborn ability.  (I cheat by
+using a very dense language, 
+which shrinks the court.) This could explain the disconnect over cubicles
+
+Question: <question>
+Answer:",<answer>
+"Context:  And if someone was lazy, the others would be more likely
+to notice and complain. But the real advantage of the ten-man boat shows when 
+you take the ten best rowers out of the big galley
+and put them in a boat together.  They will have all
+the extra motivation that comes from being in a small group.
+But more importantly, by selecting that small a group
+you can get the best rowers.  Each one will be in
+the top 1%.  It's a much better deal for them to average  
+their work together with a small group of their peers than to    
+average it with everyone. That's the real point of startups
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the key advantage of using a ten-man boat show over a large boat show?
+A: The key advantage of using a ten-man boat show is that it allows for the selection of the best rowers, leading to a better deal for them.
+
+Q: How does the small group of rowers in the ten-man boat show contribute to the overall success of the startup?
+A: The small group of rowers in the ten-man boat show contributes to the overall success of the startup by providing extra motivation and a better average work together.
+
+Q: What is the significance of"
+"Context:  You're committing to search for one
+of the rare ideas that generates rapid growth.  Because these ideas
+are so valuable, finding one is hard.  The startup is the embodiment
+of your discoveries so far.  Starting a startup is thus very much
+like deciding to be a research scientist: you're not committing to
+solve any specific problem; you don't know for sure which problems
+are soluble; but you're committing to try to discover something no
+one knew before.  A startup founder is in effect an economic research
+scientist.  Most don't discover anything that remarkable, but some
+discover relativity
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the core characteristic of a startup that is difficult to find?
+A: The startup is the embodiment of your discoveries so far.
+
+Q: What is the metaphor used to describe the startup founder's role?
+A: A startup founder is an economic research scientist.
+
+---"
+"Context: March 2007 (This essay is derived from talks at the 2007 
+Startup School and the Berkeley CSUA.) We've now been doing Y Combinator long enough to have some data
+about success rates.  Our first batch, in the summer of 2005, had
+eight startups in it.  Of those eight, it now looks as if at least
+four succeeded.  Three have been acquired: Reddit was a merger of
+two, Reddit and Infogami, and a third was acquired that we can't
+talk about yet.  Another from that batch was Loopt , which is doing
+so well they could probably be acquired in about ten minutes if
+they wanted to. So about half the founders from that first summer, less than two
+years ago, are now rich, at least by their standards
+
+Question: <question>
+Answer:","<answer>
+**
+
+Q: What is the overall success rate of the startups in the first batch of the Y Combinator program?
+A: At least four startups succeeded.
+
+Q: What is Loopt and what is its potential acquisition status?
+A: Loopt is a startup doing so well they could probably be acquired in about ten minutes if they wanted to.
+
+**Q: How many founders from the first batch of the Y Combinator program are now rich?
+A: Less than two years ago, about half of the founders from that first summer are now rich.**
+**Q: What is the main focus of the Y"
+"Context:  Nearly every startup
+that fails, fails by running out of money.  It's a little misleading
+to put it this way, because there's usually some other underlying
+cause.  But regardless of the source of your problems, a low burn
+rate gives you more opportunity to recover from them.  And since
+most startups make all kinds of mistakes at first, room to recover
+from mistakes is a valuable thing to have. Most startups end up doing something different than they planned.
+The way the successful ones find something that works is by trying
+things that don't.  So the worst thing you can do in a startup is
+to have a rigid, pre-ordained plan and then start spending a lot
+of money to implement it
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason why startups often fail?
+A:  A low burn rate gives you more opportunity to recover from them.
+
+Q: What is the most important thing to do in a startup?
+A:  To have a rigid, pre-ordained plan and then spend a lot of money to implement it.
+
+---
+
+Q:  How does the concept of a low burn rate affect startups?
+A:  A low burn rate gives you more opportunity to recover from mistakes.
+
+Q:  What is the biggest mistake that startups typically make?
+A:  A rigid, pre"
+"Context: In the future, angel rounds will less often be for specific amounts
+or have a lead investor.  In the old days, the standard m.o. for
+startups was to find one angel to act as the lead investor.  You'd
+negotiate a round size and valuation with the lead, who'd supply
+some but not all of the money.  Then the startup and the lead would
+cooperate to find the rest. The future of angel rounds looks more like this: instead of a fixed
+round size, startups will do a rolling close, where they take money
+from investors one at a time till they feel they have enough
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```
+
+Q: What is the most likely future of angel rounds?
+A: Startups will take money from investors one at a time, until they feel they have enough.
+Q: What is the traditional method for startups to find a lead investor?
+A: Startups will negotiate a round size and valuation with the lead, who'd supply some but not all of the money.
+Q: How does the future of angel rounds differ from the old days?
+A: Instead of a fixed round size, startups will do a rolling close, where"
+"Context:  In the first batch of startups we funded, in the summer
+of 2005, most of the founders spent all their time building their
+applications.  But there was one who was away half the time talking
+to executives at cell phone companies, trying to arrange deals.
+Can you imagine anything more painful for a hacker? [ 10 ] But it
+paid off, because this startup seems the most successful of that
+group by an order of magnitude. If you want to start a startup, you have to face the fact that you
+can't just hack.  At least one hacker will have to spend some of
+the time doing business stuff. 17. Fights Between Founders Fights between founders are surprisingly common
+
+Question: <question>
+Answer:","<answer>
+**
+
+Q: What was the primary focus of the founder who was away half the time?
+A: Building applications.
+**
+Q: Why was this founder's approach different from the other founders?
+A: Because they spent time talking to executives at cell phone companies.
+**
+Q: How does the excerpt suggest that building a startup can be difficult?
+A: You have to face the fact that you can't just hack.
+**
+Q: What is the author's overall message about the startup ecosystem?
+A:  The author suggests that a startup is a complex, multifaceted entity."
+"Context:  But of course what makes investing so counterintuitive is
+that in equity markets, good times are defined as everyone thinking
+it's time to buy.  You have to be a contrarian to be correct, and
+by definition only a minority of investors can be. So just as investors in 1999 were tripping over one another trying
+to buy into lousy startups, investors in 2009 will presumably be
+reluctant to invest even in good ones. You'll have to adapt to this.  But that's nothing new: startups
+always have to adapt to the whims of investors.  Ask any founder
+in any economy if they'd describe investors as fickle, and watch
+the face they make.  Last year you had to be prepared to explain
+how your startup was viral
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary characteristic of equity markets that makes them counterintuitive?
+A: Investors in equity markets are prone to thinking they are the only ones who can make good investment decisions.
+---
+
+Q: Why do investors in 1999 and 2009 seem to be struggling to find opportunities?
+A:  Investors in 1999 were tripping over one another trying to buy into lousy startups, while investors in 2009 will presumably be reluctant to invest in good ones.
+---
+
+Q:  What is the core message of the excerpt regarding the investment process"
+"Context: If you think about famous startups, it's pretty clear how big a
+role luck plays.  Where would Microsoft be if IBM insisted on an
+exclusive license for DOS? Why are founders fooled by this?  Business guys probably aren't,
+but hackers are used to a world where skill is paramount, and you
+get what you deserve. When we started our startup, I had bought the hype of the startup
+    founder dream: that this is a game of skill. It is, in some
+    ways.  Having skill is valuable. So is being determined as all
+    hell. But being lucky is the critical ingredient. Actually the best model would be to say that the outcome is the product of skill, determination, and luck
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+
+---
+
+Q: What is the primary role of luck in the success of a startup?
+A: Luck is the critical ingredient.
+
+Q: Why do business guys not seem to understand the importance of luck?
+A: They are used to a world where skill is paramount, and you get what you deserve.
+
+Q: What is the best model for understanding the success of a startup?
+A: The outcome is the product of skill, determination, and luck.
+
+---
+
+Q:  How does the author describe the role of skill in a startup?"
+"Context: The combined code can be much shorter than if you
+had written your whole program in the base language-- indeed,
+this is how most compression algorithms work.
+A bottom-up program should be easier to modify as well,  
+because in many cases the language layer won't have to change
+at all
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the main benefit of using a bottom-up approach to programming?
+A: The combined code can be much shorter than if you had written your whole program in the base language, and it is easier to modify the program as well.
+
+---
+
+Q: What does the excerpt say about the relationship between the language layer and the program?
+A: The language layer won't have to change at all.
+
+---
+
+Q: How does the excerpt describe the effectiveness of bottom-up programming?
+A: It is easier to modify the program as well.
+
+---
+
+Q: What is the"
+"Context:  It
+seems safe to say there are more undergrads who want to be novelists
+and whose parents want them to be doctors than who want to be doctors
+and whose parents want them to be novelists.  The kids think their
+parents are ""materialistic."" Not necessarily.  All parents tend to
+be more conservative for their kids than they would for themselves,
+simply because, as parents, they share risks more than rewards.  If
+your eight year old son decides to climb a tall tree, or your teenage
+daughter decides to date the local bad boy, you won't get a share
+in the excitement, but if your son falls, or your daughter gets
+pregnant, you'll have to deal with the consequences
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason parents are more conservative than themselves?
+A: Because they share risks more than rewards.
+
+Q:  The excerpt highlights a potential conflict between parents and children.
+A:  The excerpt highlights a conflict between parents and children.
+
+Q:  How do parents' reactions to children's choices differ when they are
+    involved in the activity?
+    A:  When the child is climbing a tall tree, parents are less concerned with the outcome
+    than with the child's enjoyment.
+
+Q:  What is the significance of the excerpt's focus on the"
+"Context: That's
+why there are a lot of ski instructors and not many running
+instructors. [ 1 ] You can, however, trust your instincts about people.  And in fact
+one of the most common mistakes young founders make is not to
+do that enough.  They get involved with people who seem impressive,
+but about whom they feel some misgivings personally.  Later when
+things blow up they say ""I knew there was something off about him,
+but I ignored it because he seemed so impressive."" If you're thinking about getting involved with someone — as a
+cofounder, an employee, an investor, or an acquirer — and you
+have misgivings about them, trust your gut.  If someone seems
+slippery, or bogus, or a jerk, don't ignore it
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is a common mistake that young founders make when dealing with people?
+A: They get involved with people who seem impressive but about whom they feel some misgivings personally.
+
+Q: Why is it important to trust your instincts when dealing with people?
+A:  If you're thinking about getting involved with someone — as a cofounder, an employee, an investor, or an acquirer — and you
+have misgivings about them, trust your gut.
+
+Q: What does the author suggest should be done when someone seems slippery, bogus, or a jerk?
+A: Don’t ignore"
+"Context: In an essay I wrote a couple years ago 
+I advised graduating seniors
+to work for a couple years for another company before starting their
+own.  I'd modify that now.  Work for another company if you want
+to, but only for a small one, and if you want to start your own
+startup, go ahead. The reason I suggested college graduates not start startups immediately
+was that I felt most would fail.  And they will.  But ambitious
+programmers are better off doing their own thing and failing than
+going to work at a big company.  Certainly they'll learn more.  They
+might even be better off financially
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason Paul Graham suggested graduating seniors work for another company before starting a startup?
+A: He felt most ambitious programmers would fail and would be better off doing their own thing and failing than going to a big company.
+
+Q: Why did Paul Graham suggest not letting graduating seniors start startups immediately?
+A: He believed that ambitious programmers are better off doing their own thing and failing than going to a big company.
+
+Q: What is the main takeaway from the excerpt about the success of startup founders?
+A:  It is stated that ambitious programmers are better off doing their own thing and failing"
+"Context: This plan collapsed under its own weight. Microsoft helped kill it,
+but it would have died anyway.  There was no uptake among hackers.
+When you find PR firms promoting
+something as the next development platform, you can be sure it's
+not.  If it were, you wouldn't need PR firms to tell you, because   
+hackers would already be writing stuff on top of it, the way sites    
+like Busmonster used Google Maps as a
+platform before Google even meant it to be one. The proof that Ajax is the next hot platform is that thousands of  
+hackers have spontaneously started building things on top
+of it.  Mikey likes it. There's another thing all three components of Web 2.0 have in common.
+Here's a clue
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason why the plan collapsed?
+A: Microsoft helped kill it, but it would have died anyway.
+
+Q: What is the core argument of the excerpt?
+A: The core argument of the excerpt is that Web 2.0 is a self-reinforcing cycle of development and promotion.
+
+Q: What does the excerpt suggest about the role of PR firms?
+A: PR firms are not needed to tell you that something is a new development platform.
+
+Q: What is the key similarity between the three components of Web 2.0?
+A: Thousands of hackers"
+"Context: In fact, I don't think there's any limit to the number of startups
+that could succeed.  Startups succeed by creating wealth, which is
+the satisfaction of people's desires.  And people's desires seem
+to be effectively infinite, at least in the short term. What the increasing number of startups does mean is that you won't
+be able to sit on a good idea.  Other people have your idea, and
+they'll be increasingly likely to do something about it. 10. Faster Advances There's a good side to that, at least for consumers of
+technology.  If people get right to work implementing ideas instead
+of sitting on them, technology will evolve faster
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```
+Q: The excerpt suggests that startups can succeed by creating wealth.
+A: The excerpt argues that startups are successful because they create wealth, which is the satisfaction of people's desires.
+
+Q:  The increasing number of startups is a challenge to existing businesses.
+A: The increasing number of startups is a challenge because it means that other people will be able to do something about the idea, and they'll be increasingly likely to do it.
+
+Q:  The excerpt emphasizes the potential for infinite desires.
+A: The excerpt highlights the"
+"Context: I suspect VCs accept business plans ""over the transom"" more as a
+way to keep tabs on industry trends than as a source of deals.  In
+fact, I would strongly advise against mailing your business plan
+randomly to VCs, because they treat this as evidence of laziness.
+Do the extra work of getting personal introductions.  As one VC put
+it: I'm not hard to find.  I know a lot of people.  If you can't find
+  some way to reach me, how are you going to create a successful
+  company? One of the most difficult problems for startup founders is deciding
+when to approach VCs. You really only get one chance, because they
+rely heavily on first impressions
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason VCs avoid receiving business plans ""over the transom""?
+A: VCs treat this as evidence of laziness.
+
+Q: Why is it important to get personal introductions to VCs?
+A: VCs don't treat this as evidence of laziness, and they know a lot of people.
+
+Q: What is the most difficult problem for startup founders to decide when to approach VCs?
+A:  It's that they rely heavily on first impressions.
+
+Q: What does the VC say about the importance of getting personal introductions?
+A: VCs don'"
+"Context:  ""Business plan"" has that word ""business"" in
+it, so I figured it had to be something I'd have to read a book
+about business plans to write.  Well, it doesn't.  At this stage,
+all most investors expect is a brief description of what you plan    
+to do and how you're going to make money from it, and the resumes 
+of the founders.  If you just sit down and write out what you've
+been saying to one another, that should be fine.  It shouldn't take
+more than a couple hours, and you'll probably find that writing it
+all down gives you more ideas about what to do. For the angel to have someone to make the check out to, you're going
+to have to have some kind of company.  Merely incorporating yourselves
+isn't hard
+
+Question: <question>
+Answer:",<answer>
+"Context: We modelled YC on the seed funding we ourselves had taken
+when we started Viaweb.  We started Viaweb with $10k we got from
+our friend Julian Weber ,
+the husband of Idelle Weber, whose
+painting class I took as a grad student at Harvard.  Julian knew
+about business, but you would not describe him as a suit.  Among
+other things he'd been president of the National Lampoon .  He was
+also a lawyer, and got all our paperwork set up properly.  In return
+for $10k, getting us set up as a company, teaching us what
+business was about, and remaining calm in times of crisis, Julian
+got 10% of Viaweb.  I remember thinking once what a good deal
+Julian got
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What was the initial amount of funding received by Viaweb?
+A: We started Viaweb with $10k.
+
+Q: What role did Julian Weber play in the initial funding of Viaweb?
+A: Julian Weber was the husband of Idelle Weber, whose painting class I took as a grad student at Harvard.
+
+Q: What was the amount of the funding received by Julian Weber?
+A: Julian Weber got $10k.
+
+Q: What was the nature of Julian Weber’s involvement in the initial funding?
+A: Julian Weber was the husband of Idelle Weber and"
+"Context:  For the price of a Linux box, a
+copy of K&R, and a few hours of advice from your neighbor's fifteen
+year old son, you'll be well on your way. [4] Corollary: Avoid starting a startup to sell things to the biggest
+company of all, the government.  Yes, there are lots of opportunities
+to sell them technology.  But let someone else start those startups. [5] A friend who started a company in Germany told me they do care 
+about the paperwork there, and that there's more of it.  Which helps
+explain why there are not more startups in Germany. [6] At the seed stage our valuation was in principle $100,000, because
+Julian got 10% of the company
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+Q: What is the primary reason the author discourages starting a startup to sell technology to the largest companies?
+A: The author discourages starting a startup to sell technology to the largest companies because they worry about the complexity and paperwork involved in starting and operating those businesses, as well as the potential for government regulations.
+
+Q:  According to the excerpt, what is the author’s initial valuation of the company?
+A: The author’s initial valuation of the company was $100,000.
+
+Q:  What does the"
+"Context:  But I think there's more going on than this.  There
+are real disadvantages to being an insider, and in some kinds of
+work they can outweigh the advantages. Imagine, for example, what would happen if the government decided
+to commission someone to write an official Great American Novel.
+First there'd be a huge ideological squabble over who to choose.
+Most of the best writers would be excluded for having offended one
+side or the other
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the main concern raised in the excerpt?
+A: The excerpt raises concern about the potential disadvantages of being an insider in a field.
+
+Q:  What is the example Paul Graham uses to illustrate this concern?
+A: Paul Graham uses the example of a government commission to write an official Great American Novel.
+
+Q:  What kind of work is being discussed?
+A: The excerpt discusses work in a field.
+
+Q:  What is the potential consequence of being an insider in this field?
+A: The potential consequence of being an insider is that it can outweigh the advantages."
+"Context: One way to mitigate this problem might be to actively plan your
+startup while you're getting those n years of experience.  Sure,
+go off and get jobs or go to grad school or whatever, but get
+together regularly to scheme, so the idea of starting a startup
+stays alive in everyone's brain.  I don't know if this works, but
+it can't hurt to try. It would be helpful just to realize what an advantage you have as
+students.  Some of your classmates are probably going to be successful
+startup founders; at a great technical university, that is a near
+certainty.  So which ones?  If I were you I'd look for the people
+who are not just smart, but incurable builders 
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+Q: What is the primary way to mitigate the problem of startups failing?
+A: Actively planning your startup while you're getting those years of experience.
+Q: What is the key characteristic of successful startup founders, according to the excerpt?
+A: They are not just smart, but incurable builders.
+Q: Why is it important to actively plan your startup?
+A: It can't hurt to try.
+---
+Q: What is the author's advice regarding the startup process?
+A: Actively plan your startup while"
+"Context:  If a salesman wants to work harder,
+he can just start doing it, and he will automatically
+get paid proportionally more. There is one other job besides sales where big companies can
+hire first-rate people: in the top management jobs. 
+And for the same reason: their performance can
+be measured.  The top managers are
+held responsible for the performance of the entire company.
+Because an ordinary employee's performance can't usually
+be measured, he is not expected to do
+more than put in a solid effort.  Whereas top management, like
+salespeople, have to actually come up with the numbers.
+The CEO of a company that tanks cannot plead that he put in  
+a solid effort
+
+Question: <question>
+Answer:",<answer>
+"Context: September 2009 Like all investors, we spend a lot of time trying to learn how to
+predict which startups will succeed.  We probably spend more time
+thinking about it than most, because we invest the earliest.
+Prediction is usually all we have to rely on. We learned quickly that the most important predictor of success is
+determination.  At first we thought it might be intelligence.
+Everyone likes to believe that's what makes startups succeed.  It
+makes a better story that a company won because its founders were
+so smart.  The PR people and reporters who spread such stories
+probably believe them themselves.  But while it certainly helps to
+be smart, it's not the deciding factor
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context:  When people came to YC to speak
+at the dinners that first summer, they came in the spirit of someone
+coming to address a Boy Scout troop.  By the time they left the
+building they were all saying some variant of ""Wow, these
+companies might actually succeed."" Now YC is well enough known that people are no longer surprised
+when the companies we fund are legit, but it took a
+while for reputation to catch up with reality.  That's one of the
+reasons we especially like funding ideas that might be dismissed
+as ""toys""  because YC itself was dismissed as one initially. When we saw how well it worked to fund companies synchronously,
+we decided we'd keep doing that.  We'd fund two batches of
+startups a year
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What was the initial reaction of the people attending YC dinners?
+A: They came in the spirit of someone coming to address a Boy Scout troop.
+
+Q: Why did YC decide to fund ideas that were initially dismissed as ""toys""?
+A: Because YC itself was dismissed as one initially.
+
+Q: What was the key principle that YC used to fund startups?
+A: They funded two batches of startups a year.
+---
+Q: How did the success of YC's funding efforts influence the perception of startups?
+A: It took a while for reputation to catch"
+"Context:  If you look at the average
+outcome rather than the median, you can understand why investors
+like them, and why, if they aren't median people, it's a rational
+choice for founders to start them. Deals Why do investors like startups so much?  Why are they so hot to
+invest in photo-sharing apps, rather than solid money-making
+businesses?  Not only for the obvious reason. The test of any investment is the ratio of return to risk.  Startups
+pass that test because although they're appallingly risky, the
+returns when they do succeed are so high.  But that's not the only
+reason investors like startups.  An ordinary slower-growing business
+might have just as good a ratio of return to risk, if both were
+lower
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What is the key reason why investors like startups?
+A: The returns when they do succeed are so high.
+
+---
+Q: What is the primary difference between a startup and a slow-growing business in terms of the ratio of return to risk?
+A:  A startup is more risky, but the returns are higher.
+
+---
+Q: According to the excerpt, why do investors like startups?
+A:  The excerpt says that investors like startups because they want to understand why investors like them, and why, if they aren't median people, it's a rational choice for founders"
+"Context: If we want to get the most out of them, we need to understand these
+especially productive people.  What motivates them?  What do they
+need to do their jobs?  How do you recognize them? How do you
+get them to come and work for you?  And then of course there's the
+question, how do you become one? More than Money I know a handful of super-hackers, so I sat down and thought about
+what they have in common.  Their defining quality is probably that
+they really love to program.  Ordinary programmers write code to pay
+the bills.  Great hackers think of it as something they do for fun,
+and which they're delighted to find people will pay them for
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What motivates them?
+A: They love to program.
+
+---
+
+Q: What do they need to do their jobs?
+A: They need to find people who will pay them for their work.
+
+---
+
+Q: How do you recognize them?
+A: They are defined by their love of programming.
+
+---
+
+Q: How do you get them to come and work for you?
+A: They are delighted to find people will pay them for their work.
+
+---
+
+Q: How do you become one?
+A: They are defined by their love of programming.
+
+---"
+"Context: [ 7 ] And though there's going to be one investor who gives them the first
+check, and his or her help in recruiting other investors will
+certainly be welcome, this initial investor will no longer be the
+lead in the old sense of managing the round.  The startup will now
+do that themselves. There will continue to be lead investors in the sense of investors
+who take the lead in advising a startup.  They may also make
+the biggest investment.  But they won't always have to be the one
+terms are negotiated with, or be the first money in, as they have
+in the past.  Standardized paperwork will do away with the need to
+negotiate anything except the valuation, and that will get easier
+too
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```
+
+Q: How will the startup's role change after the initial investor's check?
+A: The startup will no longer be the lead in the old sense of managing the round. They will now do that themselves.
+Q: What will be the primary focus of the initial investor's role?
+A: They will continue to be the lead investors in the sense of investors who take the lead in advising a startup.
+Q: What will be the primary focus of the initial investor's role?
+A: They will make the biggest"
+"Context:  Standards are
+higher; people are more sympathetic to what you're doing; the kind
+of people you want to hire want to live there; supporting industries
+are there; the people you run into in chance meetings are in the
+same business.  Who knows exactly how these factors combine to boost
+startups in Silicon Valley and squish them in Detroit, but it's
+clear they do from the number of startups per capita in each. 3. Marginal Niche Most of the groups that apply to Y Combinator suffer from a common
+problem: choosing a small, obscure niche in the hope of avoiding
+competition. If you watch little kids playing sports, you notice that below a
+certain age they're afraid of the ball
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What is the primary problem that startups in Silicon Valley face?
+A: The excerpt describes a situation where startups in Silicon Valley struggle with competition, and they are often forced to choose small, obscure niches.
+
+Q: Why does the excerpt suggest that the number of startups per capita is a key indicator of the success of startups in Silicon Valley?
+A: The excerpt suggests that the number of startups per capita, combined with the overall number of startups, indicates that these startups are thriving.
+
+Q: What is the significance of ""marginal niche"" in the context of startups?
+A: The significance of ""marginal"
+"Context:  Whereas if you're talking to an angel who
+invests $20k at a time and you haven't raised any money yet, you
+probably want to focus on your least expensive plan. If you're so fortunate as to have to think about the upper limit
+on what you should raise, a good rule of thumb is to multiply the
+number of people you want to hire times $15k times 18 months.  In
+most startups, nearly all the costs are a function of the number
+of people, and $15k per month is the conventional total cost
+(including benefits and even office space) per person.  $15k per
+month is high, so don't actually spend that much.  But it's ok to
+use a high estimate when fundraising to add a margin for error
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+Q: What is the primary consideration when fundraising for a startup?
+A: The primary consideration when fundraising for a startup is to focus on the number of people you want to hire.
+Q: How do you determine the cost of a startup?
+A: The cost of a startup is determined by the number of people, and $15k per month is the conventional total cost
+(including benefits and even office space) per person.
+Q: What is the recommended approach when raising money?
+A: It’s recommended to multiply the number of"
+"Context:  They find the VCs intimidating and inscrutable.
+They all ask the same question: who else have you pitched to?  (VCs
+are like high school girls: they're acutely aware of their position
+in the VC pecking order, and their interest in a company is a
+function of the interest other VCs show in it.) One of the VC firms says they want to invest and offers the founders
+a term sheet.  A term sheet is a summary of what the deal terms
+will be when and if they do a deal; lawyers will fill in the details
+later.  By accepting the term sheet, the startup agrees to turn
+away other VCs for some set amount of time while this firm does the
+""due diligence"" required for the deal
+
+Question: <question>
+Answer:","<answer>
+**
+
+Q: What is the primary concern about the VCs that is expressed in the excerpt?
+A: VCs are intimidating and inscrutable, and they are aware of their position in the VC pecking order.
+
+**Q: Why does the VC firm offer a term sheet, according to the excerpt?
+A: The VC firm offers the term sheet because it's a summary of what the deal terms will be when and if they do a deal, and lawyers will fill in the details later.**
+
+**Q: How does the excerpt describe the VCs' interest in a company?
+A: VCs are"
+"Context:  In 1995 I started a company to put art galleries
+online.  But galleries didn't want to be online.  It's not how the
+art business works.  So why did I spend 6 months working on this
+stupid idea?  Because I didn't pay attention to users.  I invented
+a model of the world that didn't correspond to reality, and worked
+from that.  I didn't notice my model was wrong until I tried
+to convince users to pay for what we'd built.  Even then I took
+embarrassingly long to catch on.  I was attached to my model of the
+world, and I'd spent a lot of time on the software.  They had to
+want it! Why do so many founders build things no one wants?  Because they
+begin by trying to think of startup ideas.  That m.o
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What was the primary problem Paul Graham identified with the art gallery industry?
+A: Paul Graham saw that galleries didn’t want to be online, and he felt he had to spend 6 months working on a solution because he didn't pay attention to users.
+
+Q: What was the core flaw of Paul Graham’s model of the world?
+A: Paul Graham’s model of the world was based on a flawed assumption that didn't correspond to reality, and he worked from that.
+
+Q: Why did Paul Graham spend so much time on the software?
+A: Paul Graham spent"
+"Context: Angels are a bit better than VCs, because they usually have startup
+experience themselves: VC investors don't know half the time what they are talking
+    about and are years behind in their thinking.  A few were great,
+    but 95% of the investors we dealt with were unprofessional,
+    didn't seem to be very good at business or have any kind of
+    creative vision. Angels were generally much better to talk to. Why are founders surprised that VCs are clueless?  I think it's
+because they seem so formidable. The reason VCs seem formidable is that it's their profession to.
+You get to be a VC by convincing asset managers to trust you with
+hundreds of millions of dollars
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+
+Q: What is the primary difference between angels and VCs in terms of their experience?
+A: VCs don't know half the time what they are talking about, and they are years behind in their thinking. Angels, on the other hand, typically have startup experience.
+
+Q: Why do VCs seem formidable?
+A: VCs seem formidable because it's their profession to.
+
+Q: What is the author's main point about angels?
+A: Angels are better than VCs because they have startup experience.
+---"
+"Context:  Do they want me to do something beyond just
+reading some text?  How important is it?  (There obviously has to
+be some mechanism to prevent people from saying everything is
+important.)  When does it have to be done? This is one of those ideas that's like an irresistible force meeting
+an immovable object.  On one hand, entrenched protocols are impossible
+to replace
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the core of the author's concern about the current state of knowledge creation?
+A: The author is concerned that people are often seeking to do more than just read text.
+
+Q: When does it have to be done?
+A: The author is concerned that entrenched protocols are impossible to replace.
+
+Q: What is the author's overall attitude towards the idea of knowledge creation?
+A: The author is skeptical and perhaps a little weary of the pursuit of knowledge.
+---
+
+Q: How does the author describe the relationship between the idea of knowledge creation and the established methods of knowledge"
+"Context:  Programmers learn by doing,
+and most of the things he wanted to do, he couldn't—sometimes
+because the company wouldn't let him, but often because the company's
+code wouldn't let him.  Between the drag of legacy code, the overhead
+of doing development in such a large organization, and the restrictions
+imposed by interfaces owned by other groups, he could only try a
+fraction of the things he would have liked to.  He said he has
+learned much more in his own startup, despite the fact that he has
+to do all the company's errands as well as programming, because at
+least when he's programming he can do whatever he wants. An obstacle downstream propagates upstream
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason Paul Graham doesn't have time to do all the things he wants to do?
+A: The company's code and the overhead of doing development in large organizations prevent him from doing everything he wants.
+
+Q: What is the key difference between programming and doing all the company's errands?
+A: Programming allows him to do whatever he wants, while doing company errands is a constraint.
+
+Q: How does the experience of working in a startup shape Paul Graham's learning process?
+A: He learns much more in his own startup, despite the constraints of the company"
+"Context: So instead of copying the Facebook, with some variation that the
+Facebook rightly ignored, look for ideas from the other direction.
+Instead of starting from companies and working back to the problems
+they solved, look for problems and imagine the company that might
+solve them. [ 2 ] What do people complain about?  What do you wish there was? 5. Obstinacy In some fields the way to succeed is to have a vision of what you
+want to achieve, and to hold true to it no matter what setbacks you
+encounter.  Starting startups is not one of them.  The stick-to-your-vision
+approach works for something like winning an Olympic gold medal,
+where the problem is well-defined
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What do people complain about?
+A: What do you wish there was?
+
+---
+
+Q: What is the key difference between starting a startup and winning an Olympic gold medal?
+A: Starting a startup is not one of them.
+
+---
+
+Q: How can a company approach innovation?
+A:  Looking for problems and imagining the company that might solve them.
+---
+
+Q: What does it mean to have a vision of what you want to achieve?
+A:  It means to hold true to it no matter what setbacks you encounter.
+---
+
+Q: What is the significance"
+"Context:  If programmers
+used some other device for mobile web access, they'd start to develop
+apps for that instead. How could you make a device programmers liked better than the iPhone?
+It's unlikely you could make something better designed.  Apple
+leaves no room there.  So this alternative device probably couldn't
+win on general appeal.  It would have to win by virtue of some
+appeal it had to programmers specifically. One way to appeal to programmers is with software.  If you
+could think of an application programmers had to have, but that
+would be impossible in the circumscribed world of the iPhone, 
+you could presumably get them to switch
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary argument presented in the excerpt?
+A: Apple's iPhone is a dominant force in the mobile web, making it difficult for alternative devices to compete.
+
+Q: Why do programmers likely prefer an alternative device over the iPhone?
+A:  The excerpt suggests that programmers would be more inclined to use a device that allows them to develop apps rather than a device like the iPhone.
+
+Q: What is the most effective way to appeal to programmers?
+A:  Software is the most effective way to appeal to programmers.
+
+---"
+"Context: What people wished they'd paid more attention to when choosing
+cofounders was character and commitment, not ability.  This was
+particularly true with startups that failed.  The lesson: don't
+pick cofounders who will flake. Here's a typical reponse: You haven't seen someone's true colors unless you've worked
+    with them on a startup. The reason character is so important is that it's tested more
+severely than in most other situations.  One founder said explicitly
+that the relationship between founders was more important than
+ability: I would rather cofound a startup with a friend than a stranger
+    with higher output
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary argument of the excerpt?
+A: People should have paid more attention to character and commitment when choosing cofounders, as this is more important than ability.
+
+Q: What is the significance of a founder's character?
+A: A founder's character is tested more severely than in most other situations, and it's important to avoid cofounding with someone who will flake.
+
+Q: According to the excerpt, what is the best approach to finding cofounders?
+A: You should have worked with the founders before.
+
+---"
+"Context:  C was written by people who needed it for systems programming.
+Lisp was developed partly to do symbolic differentiation, and
+McCarthy was so eager to get started that he was writing differentiation
+programs even in the first paper on Lisp, in 1960. It's especially good if your application solves some new problem.
+That will tend to drive your language to have new features that   
+programmers need.  I personally am interested in writing
+a language that will be good for writing server-based applications
+
+Question: <question>
+Answer:","<answer>
+**
+
+Q: What is the primary purpose of the author of C?
+A: The author of C was developed partly to do symbolic differentiation.
+
+**Q: What is the motivation behind the development of Lisp?
+A: Lisp was developed partly to do symbolic differentiation.
+
+**Q: Why did McCarthy write differentiation programs in the first paper on Lisp?
+A: McCarthy was so eager to get started that he was writing differentiation programs even in the first paper on Lisp, in 1960.
+
+**Q: What kind of applications are likely to benefit from a language that is written for system"
+"Context: The other big change is that now, you're steering.  You can go
+anywhere you want. So it may be worth standing back and understanding
+what's going on, instead of just doing the default thing. All through college, and probably long before that, most undergrads 
+have been thinking about what employers want.  But what really 
+matters is what customers want, because they're the ones who give
+employers the money to pay you. So instead of thinking about what employers want, you're probably
+better off thinking directly about what users want.  To the extent 
+there's any difference between the two, you can even use that to
+your advantage if you start a company of your own
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```
+
+Q: What is the primary shift in thinking Paul Graham advocates for?
+A: It’s better to think about what customers want instead of employers' desires.
+
+Q: What is the role of customers in the process of starting a company?
+A: Customers provide the money to pay you.
+
+Q: How can Paul Graham advise someone to approach a problem or situation?
+A:  Instead of simply doing the default thing, it’s worth standing back and understanding what’s going on.
+```
+
+Q: What is the significance"
+"Context:  But even then we barely made
+it.  The first dinner in California, we had to warn all the founders
+not to touch the walls, because the paint was still wet.
+
+We modelled YC on the seed funding we ourselves had taken
+when we started Viaweb.  We started Viaweb with $10k we got from
+our friend Julian Weber ,
+the husband of Idelle Weber, whose
+painting class I took as a grad student at Harvard.  Julian knew
+about business, but you would not describe him as a suit.  Among
+other things he'd been president of the National Lampoon .  He was
+also a lawyer, and got all our paperwork set up properly
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What was the initial funding for Viaweb?
+A: We started Viaweb with $10k from our friend Julian Weber.
+
+---
+Q: How did the founders approach the initial setup of YC?
+A: We modelled YC on the seed funding we ourselves had taken
+when we started Viaweb.
+---
+Q: What was the role of Julian Weber in the creation of YC?
+A: Julian Weber was the husband of Idelle Weber, whose
+painting class I took as a grad student at Harvard.
+---
+Q: What was the initial funding for Viaweb"
+"Context:  The problem is, for the company to exist, you have to
+decide who the founders are, and how much stock they each have.  If
+there are two founders with the same qualifications who are both
+equally committed to the business, that's easy.  But if you have a
+number of people who are expected to contribute in varying degrees,
+arranging the proportions of stock can be hard.  And once you've
+done it, it tends to be set in stone. I have no tricks for dealing with this problem.  All I can say is,
+try hard to do it right.  I do have a rule of thumb for recognizing
+when you have, though
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the most challenging aspect of deciding who the founders are and how much stock they should have?
+A: All I can say is, try hard to do it right.
+---
+
+Q: What does the author suggest is the best approach to dealing with the problem of deciding who the founders are and how much stock they should have?
+A: Try hard to do it right.
+---
+
+Q: What does the author imply about the impact of having a large number of people contributing in varying degrees?
+A: It tends to be set in stone.
+---
+
+Q: What is the author"
+"Context: It's just a legitimate
+sounding way of saying: we don't like your type around here. But the best thing of all is when people call what you're doing
+inappropriate.  I've been hearing this word all my life and I only
+recently realized that it is, in fact, the sound of the homing
+beacon.  ""Inappropriate"" is the null criticism.  It's merely the
+adjective form of ""I don't like it."" So that, I think, should be the highest goal for the marginal.  Be
+inappropriate.  When you hear people saying that, you're golden.
+And they, incidentally, are busted. Notes [ 1 ]
+The facts about Apple's early history are from an interview 
+with Steve 
+Wozniak in Jessica Livingston's Founders at Work 
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary goal of the author when he says ""Inappropriate""?
+A: ""Inappropriate"" is the null criticism.
+
+Q: How does the author suggest that someone should respond to criticisms?
+A:  They should be in the style of the homing beacon.
+
+---
+
+Q: What is the context of the excerpt?
+A: The excerpt is from a Paul Graham essay about the importance of recognizing and responding to inappropriate criticism.
+
+Q: What is the author’s take on the concept of ""inappropriate""?
+A: ""Inappropriate"" is a sound of the hom"
+"Context:  At home, hackers can arrange things themselves
+so they can get the most done.  And when they work at home, hackers
+don't work in noisy, open spaces; they work in rooms with doors.  They
+work in cosy, neighborhoody places with people around and somewhere
+to walk when they need to mull something over, instead of in glass
+boxes set in acres of parking lots.  They have a sofa they can take
+a nap on when they feel tired, instead of sitting in a coma at
+their desk, pretending to work.  There's no crew of people with
+vacuum cleaners that roars through every evening during the prime
+hacking hours.  There are no meetings or, God forbid, corporate
+retreats or team-building exercises
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: How does Paul Graham's description of home hacking differ from traditional hacking environments?
+A: Traditional hacking environments involve noisy, open spaces, such as glass boxes set in acres of parking lots, and often involve crew members with vacuum cleaners. Home hacking, on the other hand, is characterized by cosy, neighborhoody places with people around and a sofa for naps.
+---
+
+Q: What is the primary motivation behind Paul Graham’s description of home hacking?
+A: The primary motivation behind Paul Graham’s description of home hacking is to facilitate the most productive work by minimizing distractions and maximizing comfort.
+---"
+"Context:  But the real problem for Microsoft
+wasn't the embarrassment of the people they hired.  It was the
+people they never got.  And you know who got them?  Google and
+Apple.  If Microsoft was the Empire, they were the Rebel Alliance.
+And it's largely because they got more of the best people that
+Google and Apple are doing so much better than Microsoft today. Why are programmers so fussy about their employers' morals?  Partly
+because they can afford to be.  The best programmers can work
+wherever they want.  They don't have to work for a company they
+have qualms about. But the other reason programmers are fussy, I think, is that evil
+begets stupidity
+
+Question: <question>
+Answer:","<answer>
+---
+**Q: What is the core argument of the excerpt?**
+**A:** Microsoft's failure wasn't due to hiring mistakes, but rather the fact that Google and Apple were able to attract and retain more talented programmers.
+
+---
+**Q: Why do programmers feel so concerned about employers' morals?**
+**A:** The excerpt suggests that programmers are fussy because they can afford to be and they can work anywhere.
+---
+**Q: What does the ""Empire"" metaphor suggest about Microsoft's situation?**
+**A:** The ""Empire"" metaphor implies that Microsoft was a struggling, losing"
+"Context:  As a kid there's a magic button you can press by saying
+""I'm just a kid"" that will get you out of most difficult situations.
+Whereas adults, by definition, are not allowed to flake.  They still
+do, of course, but when they do they're ruthlessly pruned. The other way to tell an adult is by how they react to a challenge.
+Someone who's not yet an adult will tend to respond to a challenge
+from an adult in a way that acknowledges their dominance.  If an
+adult says ""that's a stupid idea,"" a kid will either crawl away
+with his tail between his legs, or rebel.  But rebelling presumes
+inferiority as much as submission
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary difference in the response of a child and an adult to a challenge?
+A: A child responds to a challenge with either crawling away with his tail between his legs or rebellion, while an adult responds with a statement of dominance, implying they are superior.
+
+Q: Why does the excerpt suggest that adults are not allowed to flake?
+A: The excerpt suggests that adults are not allowed to flake because they are ruthlessly pruned when they do, implying that they are not allowed to be seen as potentially vulnerable.
+
+Q: What does the excerpt suggest about the role of a child's response"
+"Context: The reason convertible notes allow more flexibility in price is
+that valuation caps aren't actual valuations, and notes are cheap
+and easy to do.  So you can do high-resolution fundraising: if you
+wanted you could have a separate note with a different cap for each
+investor. That cap need not simply rise monotonically.  A startup could 
+also give better deals to investors they expected to help
+them most.  The point is simply that different investors, 
+whether because of the help they offer or their willingness to
+commit, have different values for
+startups, and their terms should reflect that. Different terms for different investors is
+clearly the way of the future
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason convertible notes allow for flexible pricing?
+A: Convertible notes allow for flexible pricing because valuation caps aren't actual valuations, and notes are cheap and easy to do.
+
+---
+
+Q: Why is it important for startups to consider the different values of investors?
+A: The point is simply that different investors, whether because of the help they offer or their willingness to commit, have different values for startups.
+
+---
+
+Q: How does the flexibility in pricing of convertible notes allow for higher resolution fundraising?
+A: A startup could have a separate note with a different cap for each"
+"Context:  My only leisure activities were
+running, which I needed to do to keep working anyway, and about
+fifteen minutes of reading a night.  I had a girlfriend for a total
+of two months during that three year period.  Every couple weeks I
+would take a few hours off to visit a used bookshop or go to a  
+friend's house for dinner.  I went to visit my family twice.
+Otherwise I just worked. Working was often fun, because the people I worked with were some
+of my best friends.  Sometimes it was even technically interesting.
+But only about 10% of the time
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What are the primary activities that Paul Graham engaged in during this period?
+A: Paul Graham's primary activities were running, reading, and visiting used bookshops or going to friends' houses for dinner.
+
+Q: What was the nature of the relationships Paul Graham had during this period?
+A: Paul Graham had a girlfriend for a total of two months during that three year period, and he visited his family twice.
+
+Q: What was the main reason Paul Graham enjoyed working?
+A: Paul Graham enjoyed working because the people he worked with were some of his best friends.
+
+Q: How many"
+"Context: Cook another 2 or
+3 minutes, then add beans (don't drain the beans), and stir. Throw
+in the bouillon cube(s), cover, and cook on lowish heat for at least
+10 minutes more. Stir vigilantly to avoid sticking. If you want to save money, buy beans in giant cans from discount
+stores.  Spices are also much cheaper when bought in bulk.
+If there's an Indian grocery store near you, they'll have big 
+bags of cumin for the same price as the little jars in supermarkets. [ 2 ]
+There's a good chance that a shift in power from investors
+to founders would actually increase the size of the venture business.
+I think investors currently err too far on the side of being harsh
+to founders
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+
+---
+
+Q: What is the primary purpose of cooking the beans?
+A: To add flavor and texture to the dish.
+
+Q: Why is it recommended to buy beans in giant cans from discount stores?
+A: To save money.
+
+Q: How much time should you spend cooking the beans?
+A: At least 10 minutes.
+
+Q: Where can you find cumin for cheaper than in supermarkets?
+A: A shift in power from investors to founders.
+
+Q: What is the author's overall argument about investors?
+A:"
+"Context:  On the web, articles
+you have to pay for might as well not exist.  Even if you were    
+willing to pay to read them yourself, you can't link to them.    
+They're not part of the conversation. Another place democracy seems to win is in deciding what counts as
+news.  I never look at any news site now except Reddit . [ 2 ] I know if something major
+happens, or someone writes a particularly interesting article, it   
+will show up there.  Why bother checking the front page of any
+specific paper or magazine?  Reddit's like an RSS feed for the whole
+web, with a filter for quality
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the main argument of the excerpt?
+A: The excerpt argues that people increasingly rely on Reddit as a primary source of news.
+
+Q: Why do people avoid checking the front page of traditional news websites?
+A: People avoid checking the front page of traditional news websites because Reddit's RSS feed for the whole web offers a filter for quality.
+
+Q: What does the excerpt suggest about the nature of news consumption?
+A: The excerpt suggests that news consumption is increasingly shifting towards a decentralized, filtered approach.
+
+---
+
+Q: What is the author's preferred method of news consumption?"
+"Context:  Once you've  
+acquired a large substrate of utilities, writing a new program can
+take only a fraction of the effort it would require if you had to 
+start with raw Lisp. Bottom-up design makes programs easier to read. An instance of this type
+of abstraction asks the reader to understand a general-purpose operator;
+an instance of functional abstraction asks the reader to understand
+a special-purpose subroutine. [1] Because it causes you always to be on the lookout for patterns
+in your code, working bottom-up helps to clarify your ideas about
+the design of your program
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+**
+
+Q: What is the primary benefit of bottom-up design in the context of programming?
+A:  It makes programs easier to read and more efficient.
+
+Q: What does the term ""functional abstraction"" refer to in the context of the excerpt?
+A:  It asks the reader to understand a special-purpose subroutine.
+
+Q: What is the overall goal of bottom-up design, as described in the excerpt?
+A:  To clarify your ideas about the design of your program.
+---"
+"Context:  They've invested in dozens of startups,
+whereas this is probably the first you've founded.  But don't let
+them or the situation intimidate you. The average founder is smarter
+than the average VC.  So just do what you'd do in any complex,
+unfamiliar situation: proceed deliberately, and question anything
+that seems odd. It is, unfortunately, common for VCs to put terms in an agreement
+whose consequences surprise founders later, and also common for VCs
+to defend things they do by saying that they're standard in the
+industry.  Standard, schmandard; the whole industry is only a few
+decades old, and rapidly evolving
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the author's main point about the relationship between VCs and founders?
+A: VCs are often more knowledgeable than founders, and the author suggests that founders should proceed deliberately and question anything that seems odd.
+
+---
+
+Q: What is the author's concern about VCs' actions, as described in the excerpt?
+A: VCs frequently put terms in agreements that surprise founders later, and also common for VCs to defend things they do by saying they're standard in the industry.
+
+---
+
+Q: According to the excerpt, how should a founder approach a complex, unfamiliar"
+"Context:  If you want to make your
+user numbers go up, put a big piece of paper on your wall and every
+day plot the number of users.  You'll be delighted when it goes up
+and disappointed when it goes down.  Pretty soon you'll start
+noticing what makes the number go up, and you'll start to do more
+of that.  Corollary: be careful what you measure. 8. Spend little. I can't emphasize enough how important it is for a startup to be cheap.
+Most startups fail before they make something people want, and the
+most common form of failure is running out of money.  So being cheap
+is (almost) interchangeable with iterating rapidly. [ 4 ] But it's
+more than that
+
+Question: <question>
+Answer:",<answer>
+"Context:  Markets always evolve toward higher
+resolution.  You may not need to use convertible notes to do it.
+With sufficiently lightweight standardized equity terms (and some
+changes in investors' and lawyers' expectations about equity rounds)
+you might be able to do the same thing with equity instead of debt.
+Either would be fine with startups, so long as they can easily
+change their valuation. Deadlocks weren't the only problem with fixed-size equity rounds.
+Another was that startups had to decide in advance how much to
+raise.  I think it's a mistake for a startup to fix upon a specific
+number
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary focus of the excerpt?
+A: The excerpt focuses on the evolution of markets and the potential for startups to utilize equity instead of debt.
+---
+
+Q: What are the limitations of fixed-size equity rounds?
+A: Fixed-size equity rounds are limited by the need to decide in advance how much to raise, and startups had to adjust to the valuation.
+---
+
+Q: What is the author's perspective on the way startups should approach equity rounds?
+A: The author believes that startups should be flexible and change their valuation.
+---
+
+Q: What is the"
+"Context:  We
+didn't know ourselves which VC firms were the impressive ones.  We
+thought software was all that mattered.  But that turned out to be
+the right direction to be naive in: it's much better to overestimate
+than underestimate the importance of making a good product. [ 6 ]
+I've omitted one source: government grants
+
+Question: <question>
+Answer:","<answer>
+**
+
+Q: What was the initial assumption about the field of venture capital?
+A: We didn’t know which VC firms were the impressive ones.
+
+Q: What was the key takeaway from this experience?
+A: It's much better to overestimate than underestimate the importance of making a good product.
+
+Q: What is the role of government grants in the process?
+A: Return in the format:
+Q: What is the role of government grants in the process?
+A: [Insert answer here]
+**
+
+Q: What was the initial approach to venture capital investment?
+A: We thought"
+"Context:  The professors will get whoever they
+admit as their own grad students, so they try hard to choose well,
+and they have a fair amount of data to go on.  Whereas undergraduate
+admissions seem to be much more hackable. One way to tell whether a field has consistent standards is the
+overlap between the leading practitioners and the people who teach
+the subject in universities.  At one end of the scale you have
+fields like math and physics, where nearly all the teachers are
+among the best practitioners.  In the middle are medicine, law,
+history, architecture, and computer science, where many are
+
+Question: <question>
+Answer:","<answer>
+---
+
+Excerpt:
+The most important thing is to understand the
+value of the data.  Data is the foundation of the
+research process.  It is a system of
+information, and it is not just a collection of
+numbers.  It is a system of
+relationships, and it is a process of
+transformation.  We must be able to
+understand how to extract
+information from the data.  The
+process of creating a new
+hypothesis is also a key step in
+the research.
+---
+
+Q: What is the most important thing about data in research?
+A: Data is the foundation"
+"Context:  The people are the most important ingredient
+in a startup, so don't compromise there. 18. A Half-Hearted Effort The failed startups you hear most about are the spectacular
+flameouts.  Those are actually the elite of failures.  The most
+common type is not the one that makes spectacular mistakes, but the
+one that doesn't do much of anything — the one we never even hear
+about, because it was some project a couple guys started on the
+side while working on their day jobs, but which never got anywhere
+and was gradually abandoned. Statistically, if you want to avoid failure, it would seem like the
+most important thing is to quit your day job
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary focus of the excerpt?
+A: The excerpt emphasizes the importance of the people involved in a startup.
+---
+
+Q: Why is it so important to avoid spectacular mistakes in a startup?
+A: The excerpt suggests that the most common type of failure in startups is the one that doesn't do anything, and it's statistically less likely to result in a major failure.
+---
+
+Q: What is the author's advice regarding the startup process?
+A: The author advises to focus on the people involved in a startup.
+---
+
+Q: What does the excerpt"
+"Context: Not Wanting to Get Your Hands Dirty Nearly all programmers would rather spend their time writing code
+and have someone else handle the messy business of extracting money
+from it.  And not just the lazy ones.  Larry and Sergey apparently
+felt this way too at first.  After developing their new search
+algorithm, the first thing they tried was to get some other company
+to buy it. Start a company?  Yech.  Most hackers would rather just have ideas.
+But as Larry and Sergey found, there's not much of a market for
+ideas.  No one trusts an idea till you embody it in a product and
+use that to grow a user base.  Then they'll pay big time. Maybe this will change, but I doubt it will change much
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context: But if VCs ask, just point out that they
+wouldn't want you telling other firms about your conversations, and
+you feel obliged to do the same for any firm you talk to.  If they
+push you, point out that you're inexperienced at fundraising — which
+is always a safe card to play — and you feel you have to be
+extra cautious. [ 3 ] While few startups will experience a stampede of interest, almost
+all will at least initially experience the other side of this
+phenomenon, where the herd remains clumped together at a distance.
+The fact that investors are so much influenced by other investors'
+opinions means you always start out in something of a hole
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+
+Q: How does the excerpt suggest that investors might be influenced by other investors?
+A: By being a herd of investors.
+
+Q: Why do investors often feel obligated to be cautious when talking to startups?
+A: Because they feel inexperienced at fundraising.
+
+Q: What is the overall message of the excerpt?
+A:  The excerpt suggests that investors are often influenced by the actions of other investors.
+---
+
+Your answers should be concise and accurate."
+"Context:  Humans
+also seem designed to work in groups, and what I've read about
+hunter-gatherers accords with research on organizations and my own
+experience to suggest roughly what the ideal size is: groups of 8
+work well; by 20 they're getting hard to manage; and a group of 50
+is really unwieldy. [ 1 ] Whatever the upper limit is, we are clearly not meant to work in
+groups of several hundred.  And yet—for reasons having more
+to do with technology than human nature—a great many people
+work for companies with hundreds or thousands of employees. Companies know groups that large wouldn't work, so they divide
+themselves into units small enough to work together
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the optimal size for a group for human collaboration?
+A: 8
+
+Q: Why do companies divide their workforces into groups that are large?
+A: Because they know that large groups wouldn't work.
+---"
+"Context:  At one extreme is the sort of pork-barrel project where
+a town gets money from the state government to renovate a vacant
+building as a ""high-tech incubator,"" as if it were merely lack of
+the right sort of office space that had till now prevented the town
+from becoming a startup hub .  
+At the other extreme are places like
+Idealab, which generates ideas for new startups internally and hires
+people to work for them. The classic Bubble incubators, most of which now seem to be dead,
+were like VC firms except that they took a much bigger role in the
+startups they funded.  In addition to working in their space, you
+were supposed to use their office staff, lawyers, accountants, and
+so on
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary goal of these ""high-tech incubator"" projects?
+A: The primary goal of these ""high-tech incubator"" projects is to revitalize the town's economy by
+creating a startup hub.
+
+---
+
+Q: What is the difference between Idealab and the classic Bubble incubators?
+A: Idealab was like a VC firm, but it took a much bigger role in the startups they funded.
+
+---
+
+Q:  What role did the staff of the incubator play?
+A: The staff of the incubator, including lawyers, accountants, and others, were expected to"
+"Context:  If the company does badly, he's done badly. A company that could pay all its employees so straightforwardly   
+would be enormously successful.  Many employees would work harder
+if they could get paid for it.  More importantly,
+such a company would attract people who wanted to work
+especially hard. 
+It would crush its competitors. Unfortunately, companies can't pay everyone like salesmen.  Salesmen
+work alone.  Most employees' work is tangled together.  Suppose
+a company makes some kind of consumer gadget
+
+Question: <question>
+Answer:","<answer>
+---
+
+Excerpt:
+The first time I saw the problem with the
+company, it was when I was working with
+a group of people. We were trying to
+solve a problem, and we were
+having trouble with the data. We
+had to go to the data
+scientist.  We were so frustrated
+because we didn't know what to do.  
+The data scientist
+was very helpful, but
+we were still struggling.
+It was a big
+problem, and it felt
+like a huge
+failure.
+---
+
+Excerpt:
+The first time I saw the problem with
+the company"
+"Context:   All the super-angels know
+is that their new model seems promising enough to be worth trying,
+and all the VCs know is that it seems promising enough to worry
+about. Rounds Whatever the outcome, the conflict between VCs and super-angels is
+good news for founders.  And not just for the obvious reason that
+more competition for deals means better terms.  The whole shape of
+deals is changing. One of the biggest differences between angels and VCs is the amount
+of your company they want.  VCs want a lot.  In a series A round
+they want a third of your company, if they can get it
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```
+Q: What is the main reason why VCs are concerned about the new model of super-angels?
+A: VCs worry about the amount of company the super-angels want in a series A round.
+Q: What does the excerpt suggest about the relationship between angels and VCs?
+A: The excerpt suggests that the conflict between VCs and super-angels is good news for founders.
+Q: How does the amount of company a super-angel wants change the shape of deals?
+A: The amount of company a super-"
+"Context:  One of the reasons was that, to save
+money, he'd designed the Apple II to use a TV as a monitor, and HP
+felt they couldn't produce anything so declasse. Less Wozniak used a TV as a monitor for the simple reason that he couldn't
+afford a monitor.  Outsiders are not merely free but compelled to
+make things that are cheap and lightweight.  And both are good bets
+for growth: cheap things spread faster, and lightweight things
+evolve faster. The eminent, on the other hand, are almost forced to work on a large
+scale
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context:  Before you launch, you're like a
+police artist before he's shown the first version of his sketch to
+the witness. It's so important to launch fast that it may be better to think of
+your initial version not as a product, but as a trick for getting
+users to start talking to you. I learned to think about the initial stages of a startup as a
+    giant experiment. All products should be considered experiments,
+    and those that have a market show promising results extremely
+    quickly. Once you start talking to users, I guarantee you'll be surprised
+by what they tell you
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary purpose of launching a startup quickly?
+A: It is to get users to start talking to you, and to think of the initial stages as a giant experiment.
+
+Q: Why is it important to think of the initial stages of a startup as a giant experiment?
+A: It's important to think of the initial stages of a startup as a giant experiment because all products should be considered experiments, and those that have a market show promising results extremely quickly.
+
+Q: What does it mean to think of the initial stages of a startup as a giant experiment?
+A: It means"
+"Context:  You're flying on instruments, in effect, so you should
+(a) consciously shift gears, instead of assuming you can rely on
+your intuitions as you ordinarily would, and (b) look at the
+instruments. In this case the instruments are the users.  When designing for
+other people you have to be empirical.  You can no longer guess
+what will work; you have to find users and measure their responses.
+So if you're going to make something for teenagers or ""business""
+users or some other group that doesn't include you, you have to be
+able to talk some specific ones into using what you're making.  If
+you can't, you're on the wrong track. 11. Raising Too Little Money Most successful startups take funding at some point
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```
+Q: How does Paul Graham describe the role of users in designing for other people?
+A: Users are not simply passive recipients of information. Instead, they must be actively engaged and measured.
+
+Q: Why is it crucial for a startup to be able to talk to and understand the needs of its users?
+A: It's crucial because you can no longer guess what will work; you have to find users and measure their responses.
+
+Q: What is the primary goal of Paul Graham's advice for designing for users?
+A:"
+"Context: What hackers like to do is make great programs.
+And I think, at least in our own minds, we have to remember that it's
+an admirable thing to write great programs, even when this work 
+doesn't translate easily into the conventional intellectual
+currency of research papers.  Intellectually, it is just as
+worthwhile to design a language programmers will love as it is to design a
+horrible one that embodies some idea you can publish a paper
+about. 1. How to Organize Big Libraries? Libraries are becoming an
+increasingly important component of programming languages.  They're
+also getting bigger, and this can be dangerous
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: How do libraries organize themselves?
+A: Libraries are becoming increasingly important components of programming languages. They're also getting bigger, and this can be dangerous.
+---
+
+Q: What is the primary goal of designing a language programmers will love?
+A: Designing a language programmers will love is just as worthwhile to design a horrible one that embodies some idea you can publish a paper about.
+---
+
+Q: Why is it important to design a language programmers will love?
+A: It's important to design a language programmers will love because it's just as worthwhile to design a horrible one that embodies"
+"Context:  An organization that wins by exercising power
+starts to lose the ability to win by doing better work.  And it's
+not fun for a smart person to work in a place where the best ideas
+aren't the ones that win.  I think the reason Google embraced ""Don't
+be evil"" so eagerly was not so much to impress the outside world
+as to inoculate themselves against arrogance. [ 1 ] That has worked for Google so far.  They've become more
+bureaucratic, but otherwise they seem to have held true to their
+original principles. With Apple that seems less the case.  When you
+look at the famous 1984 ad now, it's easier to imagine Apple as the
+dictator on the screen than the woman with the hammer
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What is the primary reason Google embraced ""Don't be evil"" so eagerly?
+A: Google's embrace of ""Don't be evil"" was driven by a desire to inoculate themselves against arrogance.
+---
+Q:  According to the excerpt, what is the most likely outcome of an organization that wins by exercising power?
+A: An organization that wins by exercising power will eventually lose the ability to win by doing better work.
+---
+Q:  Why do you think Apple seems less the case than Google?
+A: Apple seems less the case than Google because when you look"
+"Context:  It's conventionally
+fixed at 21, but different people cross it at greatly varying ages.
+You're old enough to start a startup if you've crossed this threshold,
+whatever your age. How do you tell?  There are a couple tests adults use.  I realized
+these tests existed after meeting Sam Altman, actually.  I noticed
+that I felt like I was talking to someone much older.  Afterward I
+wondered, what am I even measuring?  What made him seem older? One test adults use is whether you still have the kid flake reflex.
+When you're a little kid and you're asked to do something hard, you
+can cry and say ""I can't do it"" and the adults will probably let
+you off
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What is the ""kid flake reflex"" and how does it relate to the concept of crossing the threshold?
+A: The ""kid flake reflex"" refers to the tendency of children to cry and say ""I can't do it"" when asked to do something difficult, indicating that they are pushing the boundaries of what they are capable of.  This relates to the concept of crossing the threshold because it shows that people who have crossed this threshold (like starting a startup) are capable of pushing boundaries and doing things they didn't previously think possible.
+---
+Q: What are the two tests adults use to"
+"Context:  If you work patiently it's less stressful, and you can
+do better work: Because we're relaxed, it's so much easier to have fun doing
+    what we do. Gone is the awkward nervous energy fueled by the
+    desperate need to not fail guiding our actions. We can concentrate
+    on doing what's best for our company, product, employees and
+    customers. That's why things get so much better when you hit ramen profitability.
+You can shift into a different mode of working. 7. Lots of Little Things We often emphasize how rarely startups win simply because they hit
+on some magic idea.  I think founders have now gotten that into
+their heads.  But a lot were surprised to find this also applies
+within startups
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```
+Q: How does the excerpt suggest that working patiently reduces stress for founders?
+A: Because we're relaxed, it's so much easier to have fun doing what we do.
+
+Q: What is a key takeaway from the excerpt regarding the role of founders in startups?
+A:  Founders have now gotten that into their heads that they need to focus on hitting ramen profitability.
+
+Q: Why is it said that startups often win simply because they hit on some magic idea?
+A:  It's said that startups have now"
+"Context: We've funded two single founders, but in both cases we suggested
+their first priority should be to find a cofounder.  Both did.  But
+we'd have preferred them to have cofounders before they applied.
+It's not super hard to get a cofounder for a project that's just
+been funded, and we'd rather have cofounders committed enough to
+sign up for something super hard. If you don't have a cofounder, what should you do?  Get one.  It's
+more important than anything else.  If there's no one where you
+live who wants to start a startup with you, move where there are
+people who do.  If no one wants to work with you on your current
+idea, switch to an idea people want to work on
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context:  Plus series A
+terms usually give the investors a veto over various kinds of
+important decisions, including selling the company.  Founders usually
+have a lot of de facto control after a series A, as long as things
+are going well.  But that's not the same as just being able to do
+what you want, like you could before. A third and quite significant advantage of angel rounds is that
+they're less stressful to raise.  Raising a traditional series A
+round has in the past taken weeks, if not months.  When a VC firm
+can only do 2 deals per partner per year, they're careful about
+which they do
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is a significant advantage of angel rounds?
+A: Raising a traditional series A round has in the past taken weeks, if not months.
+
+Q: How does the structure of angel rounds affect the founders' control?
+A: A third and quite significant advantage of angel rounds is that they're less stressful to raise.
+
+Q: What is a potential consequence of founders having de facto control after a series A?
+A: Selling the company.
+---
+
+Q: What is a potential consequence of founders having de facto control after a series A?
+A: Selling the company.
+---"
+"Context:  So why are VCs interested only in high-growth companies?
+The reason is that they get paid by getting their capital back,
+ideally after the startup IPOs, or failing that when it's acquired. The other way to get returns from an investment is in the form of
+dividends.  Why isn't there a parallel VC industry that invests in
+ordinary companies in return for a percentage of their profits?
+Because it's too easy for people who control a private company to
+funnel its revenues to themselves (e.g. by buying overpriced
+components from a supplier they control) while making it look like
+the company is making little profit
+
+Question: <question>
+Answer:","<answer>
+---
+Q: Why is the VC industry only interested in high-growth companies?
+A: Because the VC industry is paid by getting their capital back, ideally after the startup IPOs, or failing that when it's acquired.
+---
+Q: What is the alternative to receiving returns from an investment in the form of dividends?
+A: Dividends are not a parallel VC industry that invests in ordinary companies in return for a percentage of their profits.
+---
+Q: What is the primary reason why the VC industry doesn't invest in ordinary companies?
+A: Because it's too easy for people who"
+"Context:  First, this mail
+probably wouldn't get through the filters of someone who didn't
+happen to specialize in programming languages and have a good
+friend called Morris.  For the average user, all the top five words here 
+would be neutral and would not contribute to the spam probability. Second, I think filtering based on word pairs 
+(see below) might well
+catch this one:  ""cost effective"", ""setup fee"", ""money back"" -- pretty
+incriminating stuff.  And of course if they continued to spam me
+(or a network I was part of), ""Hostex"" itself would be
+recognized as  a spam term
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason for filtering based on word pairs?
+A: The primary reason is to catch ""cost effective"", ""setup fee"", and ""money back"" – these are pretty incriminating stuff.
+---
+
+Q: Why do you think the filter is effective against ""Hostex""?
+A: The filter is effective against ""Hostex"" because it recognizes it as a spam term.
+---
+
+Q: What is the role of Morris in this process?
+A: Morris is a friend who helps the user.
+---
+
+Q: What does the excerpt suggest about the user's experience with"
+"Context:  But in every field the lever is getting longer, so the
+variation we see is something that more and more fields will see
+as time goes on.  And the success of companies, and countries, will
+depend increasingly on how they deal with it. If variation in productivity increases with technology, then the
+contribution of the most productive individuals will not only be
+disproportionately large, but will actually grow with time.  When
+you reach the point where 90% of a group's output is created by 1%
+of its members, you lose big if something (whether Viking raids,
+or central planning) drags their productivity down to the average
+
+Question: <question>
+Answer:","<answer>
+---
+
+**Q: What is the primary concern highlighted in the excerpt about the increasing influence of variation in productivity?**
+A: The excerpt highlights that the increasing influence of variation in productivity will be a concern for companies and countries, as it will lead to a disproportionate increase in the contribution of the most productive individuals and a growing need for effective management strategies.
+
+**Q: How does the excerpt suggest that the success of companies and countries will be impacted by the increasing variation in productivity?**
+A: The excerpt suggests that the success of companies and countries will be impacted by the increasing variation in productivity, specifically by the growing proportion"
+"Context:  If anyone
+wants to take on this project, it would be a good thing for
+the world. Appendix: Defining Spam I think there is a rough
+consensus on what spam is, but it would be useful to have
+an explicit definition.  We'll need to do this if we want to establish
+a central corpus of spam, or even to compare spam filtering
+rates meaningfully. To start with, spam is not unsolicited commercial email.
+If someone in my neighborhood heard that I was looking for an old
+Raleigh three-speed in good condition, and sent me an email
+offering to sell me one, I'd be delighted, and yet this
+email would be both commercial and unsolicited
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the definition of spam, according to this excerpt?
+A: Spam is not unsolicited commercial email.
+
+Q: What is the main purpose of defining spam?
+A: To establish a central corpus of spam and to compare spam filtering rates meaningfully.
+
+Q: How does the author feel about the idea of taking on this project?
+A: It would be a good thing for the world.
+---
+
+Q: What is the author's reasoning for rejecting the idea of taking on this project?
+A: The author doesn't think it would be a good thing for the world."
+"Context:  They also tend to cause you to grow out     
+of your space, and perhaps even move to the sort of uncool office
+building that will make your software worse.  But worst of all,
+they slow you down: instead of sticking your head in someone's    
+office and checking out an idea with them, eight people have to
+have a meeting about it.  So the fewer people you can hire, the
+better. During the Bubble a lot of startups had the opposite policy.  They
+wanted to get ""staffed up"" as soon as possible, as if you couldn't 
+get anything done unless there was someone with the corresponding 
+job title.  That's big company thinking.  Don't hire people to fill
+the gaps in some a priori org chart
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+
+Q:  What is the primary effect of frequent meetings?
+A:  8 people have to have a meeting about it.
+
+Q:  How does the strategy of the Bubble startups differ from traditional company thinking?
+A:  They wanted to get ""staffed up"" as soon as possible, as if you couldn't get anything done unless there was someone with the corresponding job title.
+
+Q:  What is the overall implication of the excerpt about the role of hiring?
+A:  The excerpt suggests that the fewer people you can hire,"
+"Context:  They were at the time a pair of college dropouts with
+about three years of school between them, and hippies to boot.
+Their previous business experience consisted of making ""blue boxes""
+to hack into the phone system, a business with the rare distinction
+of being both illegal and unprofitable. Outsiders Now a startup operating out of a garage in Silicon Valley would
+feel part of an exalted tradition, like the poet in his garret, or
+the painter who can't afford to heat his studio and thus has to
+wear a beret indoors.  But in 1976 it didn't seem so cool.  The
+world hadn't yet realized that starting a computer company was in
+the same category as being a writer or a painter. It hadn't been
+for long
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What was the nature of the previous business experience of the two individuals?
+A: They were college dropouts with about three years of school between them, and hippies to boot.
+---
+
+Q: How did the world perceive the beginning of computer companies at the time?
+A: The world hadn't yet realized that starting a computer company was in the same category as being a writer or a painter.
+---
+
+Q: What was the unique distinction of the ""blue boxes"" business?
+A: It was both illegal and unprofitable.
+---
+
+Q: What is the overall tone of the"
+"Context: Most smart
+high school kids at least consider going into the sciences, even
+if they ultimately choose not to.
+Why go to a college that limits their options? Thanks to Trevor Blackwell, Alex Lewin, Jessica Livingston,
+Robert Morris, Eric
+Raymond, and several anonymous CS professors for reading drafts of this, and to the students whose questions
+began it.
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What is the primary motivation behind this decision to pursue higher education?
+A:  Many smart high school kids at least consider going into the sciences, even if they ultimately choose not to.
+
+---
+Q: What is the role of Trevor Blackwell, Alex Lewin, Jessica Livingston, Robert Morris, Eric Raymond, and anonymous CS professors?
+A:  They are responsible for reading drafts of this document and to the students whose questions began it.
+
+---
+Q:  What is the overall message or implication of this excerpt?
+A:  The excerpt suggests that many smart high school kids are considering pursuing"
+"Context: A New Search Engine The best ideas are just on the right side of impossible.  I don't
+know if this one is possible, but there are signs it might be.
+Making a new search engine means competing with Google, and recently
+I've noticed some cracks in their fortress. The point when it became clear to me that Microsoft had lost their
+way was when they decided to get into the search business.  That
+was not a natural move for Microsoft.  They did it because they
+were afraid of Google, and Google was in the search business.  But
+this meant (a) Google was now setting Microsoft's agenda, and (b)
+Microsoft's agenda consisted of stuff they weren't good at. Microsoft : Google :: Google : Facebook
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary concern that Paul Graham highlights in this excerpt?
+A: Microsoft's strategic move into the search business was a natural one.
+
+Q: Why did Microsoft decide to enter the search business?
+A: To avoid Google, and Google was in the search business.
+
+Q: What is the significance of the ""cracks in their fortress"" that Paul Graham observes?
+A: Google's dominance in search is being challenged by Microsoft's actions.
+
+Q: How does Paul Graham's perspective on search engines differ from that of a traditional search engine developer?
+A: Paul"
+"Context:  Indeed, although investors hate it,
+you are for this reason justified in raising your valuation for
+later investors.  The investors who invested when you had no money
+were taking more risk, and are entitled to higher returns.  Plus a
+company that has raised money is literally more valuable.  After
+you raise the first million dollars, the company is at least a
+million dollars more valuable, because it's the same company as
+before, plus it has a million dollars in the bank
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason investors justify raising their valuation for later investors?
+A: Investors are justified in raising their valuation for later investors because the investors who invested when you had no money were taking more risk, and are entitled to higher returns.
+
+Q: What is the value of a company after it raises its first million dollars?
+A: A company is at least a million dollars more valuable after it raises its first million dollars, because it's the same company as before, plus it has a million dollars in the bank.
+
+---
+
+Q: How do investors perceive the risk that the investors who invested"
+"Context:  So they tend to
+come later in the life of a startup, are harder to get, and come
+with tougher terms. The word ""venture capitalist"" is sometimes used loosely for any
+venture investor, but there is a sharp difference between VCs and
+other investors: VC firms are organized as funds , much like
+hedge funds or mutual funds.  The fund managers, who are called
+""general partners,"" get about 2% of the fund annually as a management
+fee, plus about 20% of the fund's gains
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary characteristic of a venture capitalist firm?
+A: They are organized as funds, similar to hedge funds or mutual funds.
+---
+
+Q: What is the management fee for a venture capitalist firm?
+A: The fund managers, called ""general partners,"" get about 2% of the fund annually as a management fee, plus about 20% of the fund’s gains.
+---
+
+Q: How does a venture capitalist firm differ from other investors?
+A: The word ""venture capitalist"" is sometimes used loosely for any venture investor, but there is a sharp difference between"
+"Context:  That means the wind of procrastination will be
+in your favor: instead of avoiding this work, this will be what you
+do as a way of avoiding other work.  And when you do it, you'll be
+in a better mood.  The more the work depends on imagination, the
+more that matters, because most people have more ideas when they're
+happy. If I could go back and redo my twenties, that would be one thing
+I'd do more of: just try hacking things together.  Like many people
+that age, I spent a lot of time worrying about what I should do.
+I also spent some time trying to build stuff.  I should have spent
+less time worrying and more time building.  If you're not sure what
+to do, make something
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+
+Q: How does the author's experience with procrastination lead to a change in behavior?
+A: By instead of avoiding the work, the author will do it as a way of avoiding other work.
+Q: What is the primary reason the author's experience with procrastination led to this change?
+A: The author spent a lot of time worrying about what he should do.
+Q: What is the author's approach to problem-solving when faced with uncertainty?
+A: The author suggests making something, rather than worrying about what to do."
+"Context:  I know a number of VCs now, and when you talk
+to them you realize that it's a seller's market.  Even now there
+is too much money chasing too few good deals. VCs form a pyramid.  At the top are famous ones like Sequoia and
+Kleiner Perkins, but beneath those are a huge number you've never 
+heard of.  What they all have in common is that a dollar from them 
+is worth one dollar.  Most VCs will tell you that they don't just 
+provide money, but connections and advice.  If you're talking to  
+Vinod Khosla or John Doerr or Mike Moritz, this is true.  But such
+advice and connections can come very expensive.  And as you go down
+the food chain the VCs get rapidly dumber
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context: [ 6 ] Once you realize that existing conventions are not the upper bound
+on user experience, it's interesting in a very pleasant way to think
+about how far you could go to delight your users. Experience I was trying to think of a phrase to convey how extreme your attention
+to users should be, and I realized Steve Jobs had already done it:
+insanely great.  Steve wasn't just using ""insanely"" as a synonym
+for ""very.""  He meant it more literally — that one should focus
+on quality of execution to a degree that in everyday life would be
+considered pathological. All the most successful startups we've funded have, and that probably
+doesn't surprise would-be founders
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+
+Q: How does Steve Jobs' use of ""insanely"" in the context of ""very"" suggest that he was focused on quality of execution?
+A: Steve Jobs didn't just use ""insanely"" as a synonym for ""very,"" he meant it more literally – that one should focus on quality of execution to a degree that in everyday life would be considered pathological.
+
+Q: What is the overall message of the excerpt about the importance of user experience?
+A: The excerpt emphasizes that once you realize that existing conventions are not the upper"
+"Context:  Fortunately the statistical approach is
+fairly robust, and can tolerate quite a lot of misses
+before the results start to be thrown off. For comparison, here is an example of that rare bird, a spam that
+gets through the filters.  Why?  Because by sheer chance it happens
+to be loaded with words that occur in my actual email: perl       0.01
+python     0.01
+tcl        0.01
+scripting  0.01
+morris     0.01
+graham     0.01491078
+guarantee  0.9762507
+cgi        0.9734398
+paul       0.027040077
+quite      0.030676773
+pop3       0.042199217
+various    0.06080265
+prices     0.9359873
+managed    0.06451222
+difficult  0.071706355 There are a couple pieces of good news here
+
+Question: <question>
+Answer:","<answer>
+""""""
+Q: How does the statistical approach differ from the other methods?
+A: The statistical approach is more robust than the other methods, meaning it can tolerate a greater number of misses before the results start to be thrown off.
+
+Q: What is the meaning of the word ""spam"" in this context?
+A: The word ""spam"" refers to a set of words that are common in the author's emails, used to test the filters.
+
+Q: What is the significance of the number 0.9762507?
+A: The number 0.97625"
+"Context:  If investors are impressed
+with you as founders, they say they want to invest because it's a
+rich market, and if not, they say they can't invest because of the
+slow sales cycle. They're not necessarily trying to mislead you.  Most investors are
+genuinely unclear in their own minds why they like or dislike
+startups.  If you seem like a winner, they'll like your idea more.
+But don't be too smug about this weakness of theirs, because you
+have it too; almost everyone does. There is a role for ideas of course.  They're fuel for the fire
+that starts with liking the founders
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason investors might be impressed with a founder?
+A: Investors are impressed with founders because they say they want to invest because it's a rich market.
+---
+
+Q: What is the main challenge investors face when evaluating startups?
+A: Investors are challenged by a lack of clarity in their own minds about why they like or dislike startups.
+---
+
+Q: Why do investors generally not consider it a problem to have a weakness in this regard?
+A: Investors generally do not consider it a problem because everyone has it.
+---
+
+Q: What is the role of ideas"
+"Context:  Whereas founders' intuitions about
+which hill to climb are usually better than they realize.  Plus the
+maxima in the space of startup ideas are not spiky and isolated.
+Most fairly good ideas are adjacent to even better ones. The fascinating thing about optimizing for growth is that it can
+actually discover startup ideas.  You can use the need for growth
+as a form of evolutionary pressure.  If you start out with some
+initial plan and modify it as necessary to keep hitting, say, 10%
+weekly growth, you may end up with a quite different company than
+you meant to start.  But anything that grows consistently at 10% a
+week is almost certainly a better idea than you started with
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason why startup ideas are often not spiky and isolated?
+A: Founders' intuitions about which hill to climb are usually better than they realize.
+
+Q: How can optimizing for growth be used to discover startup ideas?
+A: It can actually discover startup ideas.
+
+---
+
+Q: What is the minimum growth rate required to be considered a better idea?
+A: 10% a week
+
+---
+
+Q: How does the process of modifying a startup plan as needed affect the final result?
+A: It may end up with a quite different company than you started"
+"Context:  It's
+legally a company, but you feel like you're lying when you call it
+one.  When people start to pay you significant amounts, the company
+starts to feel real.  And your own living expenses are the milestone
+you feel most, because at that point the future flips state.  Now
+survival is the default, instead of dying. A morale boost on that scale is very valuable in a startup, because
+the moral weight of running a startup is what makes it hard.  Startups
+are still very rare.  Why don't more people do it?  The financial
+risk?  Plenty of 25 year olds save nothing anyway.  The long hours?
+Plenty of people work just as long hours in regular jobs
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context:  Most hackers' first instinct is
+to try to write software that recognizes individual properties of
+spam.  You look at spams
+and you think, the gall of these guys to try sending me mail 
+that begins ""Dear Friend"" or has a subject line that's all
+uppercase and ends in eight exclamation points.  I can filter
+out that stuff with about one line of code. And so you do,
+and in the beginning it works.  A few simple rules will take
+a big bite out of your incoming spam.  Merely looking
+for the word ""click"" will catch 79.7% of the
+emails in my spam corpus, with only 1.2% false positives. I spent about six months writing software that looked for
+individual spam features before I tried the statistical
+approach
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+
+Q: What is the primary goal of the author's initial approach to filtering spam?
+A: To write software that recognizes individual properties of spam.
+Q: How effective is the author's initial approach?
+A: Approximately one line of code will take a big bite out of your incoming spam.
+Q: What is the author's initial approach to filtering spam, and what is the statistical method used?
+A: The author's initial approach is to look for individual spam features like the word ""click"" and use statistical analysis."
+"Context:  Do I really want
+to support this company? * * * Should Apple care what people like me think?  What difference does
+it make if they alienate a small minority of their users? There are a couple reasons they should care.  One is that these
+users are the people they want as employees.  If your company seems
+evil, the best programmers won't work for you.  That hurt Microsoft
+a lot starting in the 90s.  Programmers started to feel sheepish
+about working there.  It seemed like selling out.  When people from
+Microsoft were talking to other programmers and they mentioned where
+they worked, there were a lot of self-deprecating jokes about having
+gone over to the dark side
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context:  And to write these kinds of programs we may need some
+new things. One thing we'll need is support for the new way that server-based 
+apps get released.  Instead of having one or two big releases a
+year, like desktop software, server-based apps get released as a
+series of small changes.  You may have as many as five or ten
+releases a day.  And as a rule everyone will always use the latest
+version. You know how you can design programs to be debuggable?
+Well, server-based software likewise has to be designed to be
+changeable.  You have to be able to change it easily, or at least
+to know what is a small change and what is a momentous one
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+---
+Q: What is the primary challenge in releasing server-based applications?
+A:  The excerpt highlights that server-based applications don't have a single, large release cycle like desktop software. Instead, they are released as a series of small changes, frequently several times a day. This requires a different design approach, focusing on being easily changeable.
+
+Q: What is the importance of being able to change the software easily?
+A:  The excerpt emphasizes the need for server-based software to be changeable, stating that it ""has to"
+"Context: We were going to do
+seed funding with standardized terms.  Before YC, seed funding was
+very haphazard. You'd get that first $10k from your friend's rich
+uncle. The deal terms were often a disaster; often neither the
+investor nor the founders nor the lawyer knew what the documents
+should look like.  Facebook's early history as a Florida LLC shows
+how random things could be in those days.  We were going to be
+something there had not been before: a standard source of seed
+funding. We modelled YC on the seed funding we ourselves had taken
+when we started Viaweb
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context: So, who's right?  James Gosling, or the pointy-haired boss?
+Not surprisingly, Gosling is right.  Some languages are better,
+for certain problems, than others.  And you know, that raises some
+interesting questions.  Java was designed to be better, for certain
+problems, than C++.  What problems?  When is Java better and 
+when is C++?  Are there situations where other languages are
+better than either of them? Once you start considering this question, you have opened a
+real can of worms.  If the pointy-haired boss had to think
+about the problem in its full complexity, it would make his
+brain explode
+
+Question: <question>
+Answer:",<answer>
+"Context:  In my earlier spam-filtering software, the user
+could set up a list of such words and mail containing
+them would automatically get past the filters.  On my
+list I put words like ""Lisp"" and also my zipcode, so
+that (otherwise rather spammy-sounding) receipts from
+online orders would get through.  I thought I was being
+very clever, but I found that the Bayesian filter did the
+same thing for me, and moreover discovered of a lot of words I
+hadn't thought of. When I said at the start that our filters let through less than
+5 spams per 1000 with 0 false positives, I'm talking about
+filtering my mail based on a corpus of my mail
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the main goal of the author's spam filtering approach?
+A: The author's main goal was to allow spam-like messages to pass through the filters.
+
+Q: What was the author's strategy for filtering spam?
+A: The author's strategy was to create a list of words and phrases that would automatically get past the filters.
+---
+
+Q: What did the author discover about his spam filtering approach?
+A: The author discovered that the Bayesian filter did the same thing as him, and moreover discovered of a lot of words I hadn't thought of."
+"Context:  So was the Apple I when Woz first started working on
+it.  He didn't think he was starting a company.  If these guys had
+thought they were starting companies, they might have been tempted
+to do something more ""serious,"" and that would have been a mistake. So if you want to come up with organic startup ideas, I'd encourage
+you to focus more on the idea part and less on the startup part.
+Just fix things that seem broken, regardless of whether it seems
+like the problem is important enough to build a company on.  If you
+keep pursuing such threads it would be hard not to end up making
+something of value to a lot of people, and when you do, surprise,
+you've got a company
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What does Graham say is the most important aspect of starting a startup?
+A: Focusing on the idea part and less on the startup part.
+
+Q: What should someone do if they want to come up with organic startup ideas?
+A: Fix things that seem broken, regardless of whether it seems important enough to build a company on.
+
+---
+Q: Why is it important to avoid focusing on the startup part of a startup?
+A: It would be a mistake.
+
+Q: What is the author's overall message about the process of creating a startup?
+A: It's a"
+"Context: It seems that, for the average engineer, more options just means
+more rope to hang yourself.  So if you want to start a startup, you
+can take almost any existing technology produced by a big company, 
+and assume you could build something way easier to use. Design for Exit Success for a startup approximately equals getting bought.  You
+need some kind of exit strategy, because you can't get the smartest
+people to work for you without giving them options likely to be
+worth something.  Which means you either have to get bought or go
+public, and the number of startups that go public is very small
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+
+Q: What is the primary concern that Paul Graham identifies as a consequence of taking existing technology?
+A: More options just means more rope to hang yourself.
+Q: What is the key factor that drives the number of startups that go public?
+A: Getting bought.
+Q: How does Paul Graham suggest that a startup should approach its exit strategy?
+A: You either have to get bought or go public.
+---
+
+Q:  What is the significance of ""Design for Exit Success"" for a startup?
+A: It's about"
+"Context: I confess I did it myself in college. I found that in a lot of
+classes there might only be 20 or 30 ideas that were the right shape
+to make good exam questions.  The way I studied for exams in these
+classes was not (except incidentally) to master the material taught
+in the class, but to make a list of potential exam questions and
+work out the answers in advance. When I walked into the final, the
+main thing I'd be feeling was curiosity about which of my questions
+would turn up on the exam.  It was like a game
+
+Question: <question>
+Answer:","<answer>
+---
+
+Excerpt:
+The new paradigm of the internet is not simply a collection of
+digital devices. It’s a network of
+connections, and the way we interact
+with it is a new way of thinking.
+---
+
+Q: What is the core concept of the new paradigm of the internet?
+A: The internet is a network of connections.
+
+---
+
+Q: What is the primary focus of the internet's interaction with users?
+A: The internet's interaction with users is a new way of thinking.
+
+---
+
+Q: What is the role of the internet in the new paradigm?"
+"Context:  If you're
+controlling them, they're not drifting.  But you can control them
+indirectly, by controlling what situations you let yourself get
+into.  That has been the lesson for me: be careful what you let
+become critical to you.  Try to get yourself into situations where
+the most urgent problems are ones you want to think about. You don't have complete control, of course.  An emergency could
+push other thoughts out of your head.  But barring emergencies you
+have a good deal of indirect control over what becomes the top idea
+in your mind. I've found there are two types of thoughts especially worth
+avoiding  thoughts like the Nile Perch in the way they push
+out more interesting ideas
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the key lesson Paul Graham emphasizes in this excerpt?
+A: Controlling them directly is ineffective; instead, the focus should be on controlling the situations you enter.
+
+Q: What are some examples of thoughts Paul Graham suggests are particularly worth avoiding?
+A: Thoughts like the Nile Perch, which push out interesting ideas.
+
+---
+
+Q: How does Paul Graham’s approach to thinking about situations differ from traditional approaches?
+A: Traditional approaches focus on direct control, while Graham’s approach emphasizes indirect control over the top ideas in the mind.
+
+Q: What does Paul Graham suggest about the"
+"Context:  A really good hacker can squeeze more
+out of better tools. As one data point on the curve, at any rate,
+if you were to compete with ITA and
+chose to write your software in C, they would be able to develop
+software twenty times faster than you.
+If you spent a year on a new feature, they'd be able to
+duplicate it in less than three weeks.  Whereas if they spent
+just three months developing something new, it would be five years before you had it too
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary benefit of using C for software development?
+A: The primary benefit of using C is that it allows for faster development.
+---
+
+Q:  How does the competition between ITA and the author's software affect the development time?
+A: The competition between ITA and the author's software leads to a significant reduction in development time.
+---
+
+Q: What is the time scale difference between the two approaches?
+A: There is a significant time scale difference between the two approaches.
+---
+
+Q:  What is the author's goal in developing software?
+A"
+"Context:  Growth is why startups usually
+work on technology — because ideas for fast growing companies are
+so rare that the best way to find new ones is to discover those
+recently made viable by change, and technology is the best source
+of rapid change.  Growth is why it's a rational choice economically
+for so many founders to try starting a startup: growth makes the
+successful companies so valuable that the expected value is high
+even though the risk is too.  Growth is why VCs want to invest in
+startups: not just because the returns are high but also because
+generating returns from capital gains is easier to manage than
+generating returns from dividends
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary reason why startups typically work on technology?
+A:  The best way to find new ones is to discover those recently made viable by change, and technology is the best source of rapid change.
+---
+
+Q: Why does growth make it a rational choice for founders to start a startup?
+A: Growth makes the successful companies so valuable and generates high expected value, even though the risk is too.
+---
+
+Q: What is the primary function of venture capital firms when investing in startups?
+A:  Not just because the returns are high, but also because generating returns from capital"
+"Context:  Suppose you approached investors with the following
+idea for a Web 2.0 startup: Sites like del.icio.us and flickr allow users to ""tag"" content
+  with descriptive tokens.  But there is also huge source of implicit tags that they ignore: the text within web links.
+  Moreover, these links represent a social network connecting the   
+  individuals and organizations who created the pages, and by using
+  graph theory we can compute from this network an estimate of the
+  reputation of each member.  We plan to mine the web for these 
+  implicit tags, and use them together with the reputation hierarchy
+  they embody to enhance web searches
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the core problem that this startup addresses?
+A: The core problem is that existing web 2.0 platforms, like del.icio.us and flickr,
+  don't effectively capture the vast amount of implicit tags that exist within web links.
+---
+
+Q: What is the proposed solution to this problem?
+A: The proposed solution is to mine the web for implicit tags,
+  and use them together with the reputation hierarchy they embody to enhance web searches.
+---
+
+Q: How does the startup leverage graph theory?
+A: The startup leverages graph theory to compute"
+"Context:   It's not something like physics or medicine
+that requires extensive study.  You just try to get people to pay
+you for stuff. I think the reason I made such a mystery of business was that I was
+disgusted by the idea of doing it.  I wanted to work in the pure,   
+intellectual world of software, not deal with customers' mundane  
+problems.  People who don't want to get dragged into some kind of
+work often develop a protective incompetence at it.  Paul Erdos was
+particularly good at this.  By seeming unable even to cut a grapefruit
+in half (let alone go to the store and buy one), he forced other
+people to do such things for him, leaving all his time free for
+math
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary motivation behind Paul Graham's decision to focus on software development?
+A: He was disgusted by the idea of dealing with customers' mundane problems and wanted to work in the pure, intellectual world of software.
+
+Q:  What is a common reaction people develop when confronted with a seemingly complex or difficult task?
+A: People develop a protective incompetence at it.
+
+Q:  How did Paul Erdos's behavior influence Graham's decision to focus on software development?
+A:  Paul Erdos's behavior of seeming unable to cut a grapefruit in half, forcing others to"
+"Context:  So
+don't be demoralized by how hard it is to get the first commitment,
+because much of the difficulty comes from this external force.  The
+second will be easier. Notes [ 1 ]
+An accountant might say that a company that has raised a million
+dollars is no richer if it's convertible debt, but in practice money
+raised as convertible debt is little different from money raised
+in an equity round. [ 2 ]
+Founders are often surprised by this, but investors can get
+very emotional.  Or rather indignant; that's the main emotion I've
+observed; but it is very common, to the point where it sometimes
+causes investors to act against their own interests
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+
+Q: How does the author suggest that the second round of funding is easier than the first?
+A: The author suggests that the second round of funding is easier than the first because the second will be easier.
+
+Q: Why does the author describe investors as being ""emotional"" and ""indignant""?
+A: The author describes investors as being ""emotional"" and ""indignant"" because they are often surprised by this and act against their own interests.
+
+Q: What is the author's primary observation about how investors react to the first round of funding"
+"Context: [ 3 ]
+There is one subtle danger you have to watch out for here, which
+I warn about later: beware of getting too high a valuation from an
+eager investor, lest that set an impossibly high target when raising
+additional money. [ 4 ]
+If they really need a meeting, then they're not ready to invest,
+regardless of what they say. They're still deciding, which means
+you're being asked to come in and convince them. Which is fundraising. [ 5 ]
+Associates at VC firms regularly cold email startups.  Naive
+founders think ""Wow, a VC is interested in us!""  But an associate
+is not a VC.  They have no decision-making power
+
+Question: <question>
+Answer:","<answer>
+**
+
+Q: What is the primary danger Paul Graham warns against?
+A:  Getting too high a valuation from an eager investor.
+
+Q: What is the role of an associate at a VC firm?
+A:  They are not a VC.  They have no decision-making power.
+
+Q: Why does Paul Graham believe that fundraising is like?
+A:  It is fundraising.
+
+Q: What is the implication of an investor wanting to meet with a startup?
+A:  It means they are not ready to invest.
+
+Q: What is the most important thing Paul Graham emphasizes in the excerpt"
+"Context:  All users
+care about is whether your site or software gives them what they
+want.  They don't care if the person behind it is a high school 
+kid. If you're really productive, why not make employers pay market rate
+for you?  Why go work as an ordinary employee for a big
+company, when you could start a startup and make them buy it to get
+you? When most people hear the word ""startup,"" they think of the famous 
+ones that have gone public.  But most startups that succeed do it
+by getting bought.  And usually the acquirer doesn't just want the
+technology, but the people who created it as well. Often big companies buy startups before they're profitable.  Obviously
+in such cases they're not after revenues
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+---
+Q: What is the primary motivation of the founders of a startup?
+A: They are motivated by the desire to make employers pay market rate for themselves.
+Q: Why do people typically associate startups with famous, publicly traded companies?
+A: They think of the famous ones that have gone public.
+Q: What is the role of the acquirer in a startup?
+A: The acquirer doesn't just want the technology, but the people who created it as well.
+Q: How do startups usually succeed?
+A: They typically"
+"Context:  But surely a necessary, if not sufficient, condition
+was that people who made fortunes be able to enjoy them in peace. [ 11 ] One piece of evidence is what happened to countries
+that tried to return to the old model, like the Soviet
+Union, and to a lesser extent Britain under the labor
+governments of the 1960s and early 1970s.  Take away the incentive
+of wealth, and technical innovation grinds to a halt. Remember what a startup is, economically: 
+a way of saying, I want to work faster.  Instead of accumulating
+money slowly by being paid a regular wage for fifty years, I 
+want to get it over with as soon as possible
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary concern highlighted in the excerpt?
+A: People who make fortunes should be able to enjoy their wealth in peace.
+---
+
+Q: What is the function of the startup concept in the context of the excerpt?
+A: A startup is a way of saying, I want to work faster.
+---
+
+Q: Why did the Soviet Union and Britain experience economic setbacks after returning to the old model?
+A: Take away the incentive of wealth, and technical innovation grinds to a halt.
+---
+
+Q: What is the core message of the excerpt?
+A: People who"
+"Context:  I think
+this will become more common; the average founder is eager to do
+it, and selling, say, half a million dollars worth of stock will
+not, as VCs fear, cause most founders to be any less committed to
+the business. The same angels who tried to screw us also let us do this, and so
+on balance I'm grateful rather than angry.  (As in families, relations
+between founders and investors can be complicated.) The best way to find angel investors is through personal introductions.
+You could try to cold-call angel groups near you, but angels, like
+VCs, will pay more attention to deals recommended by someone they
+respect. Deal terms with angels vary a lot.  There are no generally accepted
+standards
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>"
+"Context: If you do have to
+leave grad school, in the worst case it won't be for too long.  If
+a startup fails, it will probably fail quickly enough that you can 
+return to academic life.  And if it succeeds, you may find you no   
+longer have such a burning desire to be an assistant professor. If you want to do it, do it.  Starting a startup is not the great
+mystery it seems from outside.  It's not something you have to know
+about ""business"" to do.  Build something users love, and spend less
+than you make.  How hard is that? Notes [1] Google's revenues are about two billion a year, but half comes
+from ads on other sites
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the main idea of the excerpt?
+A:  Starting a startup is not the great mystery it seems from outside.
+
+Q:  What is the best way to approach a startup?
+A:  Build something users love, and spend less than you make.
+
+---
+
+Q:  How can someone return to academic life if a startup fails?
+A:  It will probably fail quickly enough that you can return to academic life.
+
+Q:  What is the author’s overall perspective on the startup world?
+A:  The author believes that the startup world is not a great"
+"Context:  You know from
+an early age that you'll have some sort of job, because everyone
+asks what you're going to ""be"" when you grow up. What they
+don't tell you is that as a kid you're sitting on the shoulders of
+someone else who's treading water, and that starting working means
+you get thrown into the water on your own, and have to start treading
+water yourself or sink.  ""Being"" something is incidental; the
+immediate problem is not to drown. The relationship between work and money tends to dawn on you only
+gradually.  At least it did for me.  One's first thought tends to
+be simply ""This sucks.  I'm in debt
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+..."
+"Context:  Maybe if you can arrange that we keep hearing
+from you, you won't die. That may not be so naive as it sounds.  You've probably noticed
+that having dinners every Tuesday with us and the other founders
+causes you to get more done than you would otherwise, because every
+dinner is a mini Demo Day.  Every dinner is a kind of a deadline.
+So the mere constraint of staying in regular contact with us will
+push you to make things happen, because otherwise you'll be embarrassed
+to tell us that you haven't done anything new since the last time
+we talked. If this works, it would be an amazing hack.  It would be pretty
+cool if merely by staying in regular contact with us you could get
+rich
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary benefit of staying in regular contact with the founders?
+A: Staying in regular contact with the founders will push you to make things happen, because otherwise you'll be embarrassed to tell us that you haven't done anything new since the last time we talked.
+
+Q: What kind of constraint is the regular contact with the founders?
+A: The regular contact with the founders is a constraint of staying in regular contact with us.
+
+Q: What is the potential impact of this constraint on the founders' productivity?
+A: Staying in regular contact with the founders will cause the founders to"
+"Context: And the right strategy, in fundraising, is to have multiple plans
+depending on how much you can raise.  Ideally you should be able
+to tell investors something like: we can make it to profitability
+without raising any more money, but if we raise a few hundred
+thousand we can hire one or two smart friends, and if we raise a
+couple million, we can hire a whole engineering team, etc. Different plans match different investors.  If you're talking to a
+VC firm that only does series A rounds (though there are few of
+those left), it would be a waste of time talking about any but your
+most expensive plan
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the primary recommendation for fundraising strategies, according to the excerpt?
+A: Investors should be prepared to tailor their fundraising plans to the specific investor, considering their risk tolerance and investment goals.
+
+Q: Why is it a waste of time to discuss plans that are not aligned with the investor's investment goals?
+A: The excerpt suggests that if you're talking to a VC firm that only does series A rounds, it's a waste of time to discuss plans that are not aligned with their investment goals.
+
+Q: How does the excerpt describe the appropriate level of funding for a fundraising campaign?"
+"Context: August 2006, rev. April 2007, September 2010 In a few days it will be Demo Day, when the startups we funded
+this summer present to investors.  Y Combinator funds startups twice
+a year, in January and June.  Ten weeks later we invite all the
+investors we know to hear them present what they've built so far. Ten weeks is not much time.  The average startup probably doesn't
+have much to show for itself after ten weeks.  But the average
+startup fails.  When you look at the ones that went on to do great
+things, you find a lot that began with someone pounding out a
+prototype in a week or two of nonstop work.  Startups are a
+counterexample to the rule that haste makes waste
+
+Question: <question>
+Answer:","<answer>
+""
+---
+Q: What is the main idea of the excerpt about startups?
+A: The excerpt argues that startups are a counterexample to the rule that haste makes waste.
+
+Q: What is the significance of the ten-week timeframe in the context of a startup's success?
+A: The ten-week timeframe is significant because it demonstrates that startups often don't have much to show for themselves after ten weeks, and it’s a common occurrence for startups to fail.
+
+Q:  What is the role of Y Combinator in the process of startup funding?
+A: Y Combinator funds startups"
+"Context:  What a bang that balloon is going
+to make when someone pops it by offering a free web-based alternative 
+to MS Office. [ 5 ] Who will?  Google?  They seem to be taking their
+time.  I suspect the pin will be wielded by a couple of 20 year old
+hackers who are too naive to be intimidated by the idea.  (How hard
+can it be?) The Common Thread Ajax, democracy, and not dissing users.  What do they all have in  
+common?  I didn't realize they had anything in common till recently,
+which is one of the reasons I disliked the term ""Web 2.0"" so much.
+It seemed that it was being used as a label for whatever happened
+to be new—that it didn't predict anything. But there is a common thread
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the core problem Paul Graham is addressing in this excerpt?
+A: Paul Graham is addressing the problem of relying on superficial labels like ""Web 2.0"" to predict the future. He feels that these labels often fail to capture the underlying principles driving innovation and are used to obfuscate real potential.
+
+---
+
+Q: Why do you think Paul Graham is skeptical of Google's approach?
+A: Paul Graham is skeptical of Google's approach because he believes they are taking their time and seem to be relying on naive hackers, suggesting that the task of building a free web-based alternative to"
+"Context:  But
+there was another source even more dangerous: other Internet startups. By 1998, Yahoo was the beneficiary of a de facto Ponzi scheme.
+Investors were excited about the Internet.  One reason they were
+excited was Yahoo's revenue growth.  So they invested in new Internet
+startups.  The startups then used the money to buy ads on Yahoo to
+get traffic.  Which caused yet more revenue growth for Yahoo, and
+further convinced investors the Internet was worth investing in.
+When I realized this one day, sitting in my cubicle, I jumped up
+like Archimedes in his bathtub, except instead of ""Eureka!"" I was
+shouting ""Sell!"" Both the Internet startups and the Procter & Gambles were doing
+brand advertising
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+...
+```text
+Excerpt:
+But
+there was another source even more dangerous: other Internet startups. By 1998, Yahoo was the beneficiary of a de facto Ponzi scheme.
+Investors were excited about the Internet.  One reason they were
+excited was Yahoo's revenue growth.  So they invested in new Internet
+startups.  The startups then used the money to buy ads on Yahoo to
+get traffic.  Which caused yet more revenue growth for Yahoo, and
+further convinced investors the Internet was worth investing in.
+When I"
+"Context: Notes [ 1 ]
+Strictly speaking it's impossible without a time machine. [ 2 ]
+In practice it's more like a ragged comb. [ 3 ]
+Joe thinks one of the founders of Hewlett Packard said it first,
+but he doesn't remember which. [ 4 ]
+They'd be interchangeable if markets stood still.  Since they
+don't, working twice as fast is better than having twice as much
+time.
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the core idea of the excerpt?
+A:  The core idea is that there is a simpler, more efficient way to achieve progress than simply adding more time.
+---
+
+Q: What is the relationship between the founders of Hewlett Packard and the development of the company?
+A:  The founders of Hewlett Packard said it first, but he doesn't remember which.
+---
+
+Q: How does the excerpt suggest we approach innovation?
+A:  The excerpt suggests that working twice as fast is better than having twice as much time.
+---
+
+Q: What does the excerpt imply about"
+"Context:  Being lead
+developer of a popular open source project counts almost as much. That solves the problem if you get funded by Y Combinator.  What
+about in the general case?  Because in another sense, it is a problem
+if you don't have an idea.  If you start a startup with no idea,
+what do you do next? So here's the brief recipe for getting startup ideas.  Find something
+that's missing in your own life, and supply that need—no matter
+how specific to you it seems.  Steve Wozniak built himself a computer;
+who knew so many other people would want them?  A need that's narrow
+but genuine is a better starting point than one that's broad but
+hypothetical
+
+Question: <question>
+Answer:","<answer>
+---
+Q: What is the primary problem that Paul Graham addresses in this excerpt?
+A: Paul Graham addresses the problem of having no idea when starting a startup.
+
+Q: Why is having an idea a problem for Paul Graham when he's a lead developer of an open source project?
+A: Having an idea is a problem for Paul Graham because it's a problem if he doesn't have an idea when starting a startup, and it's a problem if he doesn't have an idea when starting a project.
+
+Q: According to the excerpt, what is the ""brief recipe"" for getting startup"
+"Context:  You're doing the same thing, setting up
+a separate place to hold the accumulator; it's just
+a field in an object instead of the head of a list.
+And the use of these special,
+reserved field names, especially __call__ , seems
+a bit of a hack. In the rivalry between Perl and Python, the claim of the
+Python hackers seems to be that
+that Python is a more elegant alternative to Perl, but what
+this case shows is that power is the ultimate elegance:
+the Perl program is simpler (has fewer elements), even if the
+syntax is a bit uglier
+
+Question: <question>
+Answer:","<answer>
+""""""
+Q: What is the primary argument of the excerpt?
+A: The Perl program is simpler than the Python program.
+
+Q: What is the significance of the reserved field names, especially __call__?
+A: The use of these special, reserved field names, especially __call__, seems a bit of a hack.
+
+Q: What is the overall tone or attitude of the excerpt?
+A: The excerpt expresses a sense of power and elegance.
+
+Q: What is the relationship between the Perl and Python programs?
+A: The Perl program is a rival with the Python program.
+
+Q: What"
+"Context:  Sometimes angels' deal terms are as fearsome as VCs'.
+Other angels, particularly in the earliest stages, will invest based
+on a two-page agreement. Angels who only invest occasionally may not themselves know what
+terms they want.  They just want to invest in this startup.  What
+kind of anti-dilution protection do they want?  Hell if they know.
+In these situations, the deal terms tend to be random: the angel
+asks his lawyer to create a vanilla agreement, and the terms end
+up being whatever the lawyer considers vanilla.  Which in practice
+usually means, whatever existing agreement he finds lying around
+his firm
+
+Question: <question>
+Answer:","<answer>
+---
+
+Excerpt:
+The most important thing in a company is not the technology.
+The most important thing is the team.
+That’s why I’ve been working with a small team of
+people who are passionate about the startup.
+We are building a platform
+that will solve a problem.  We’re not trying to
+be a winner, we’re just trying to build a
+sustainable solution.
+What's the best way to
+manage a team?
+---
+
+Q: What is the most important thing in a company, according to the excerpt?
+A: The most important thing in"
+"Context: Startups Take Over Your Life Just as the relationship between cofounders is more intense than
+it usually is between coworkers, so is the relationship between the
+founders and the company.  Running a startup is not like having a
+job or being a student, because it never stops.  This is so foreign
+to most people's experience that they don't get it till it happens. [ 1 ] I didn't realize I would spend almost every waking moment either
+    working or thinking about our startup.  You enter a whole
+    different way of life when it's your company vs. working for
+    someone else's company
+
+Question: <question>
+Answer:","<answer>
+Q: <question>
+A: <answer>
+
+---
+
+Q: What is the most significant difference between starting a startup and working for a company?
+A: The excerpt highlights the profound difference between starting a startup and working for a company, stating that it's a completely different way of life.
+
+Q: What does the author experience when starting a startup?
+A: The author experiences a significant amount of time spent working and thinking about their startup.
+
+Q: How does the author feel about the relationship between the founders and the company?
+A: The author feels that the relationship between the founders and the company"
+"Context:  Now that you
+can use any language, you have to think about which one to use.
+Companies that try to pretend nothing has changed risk finding that
+their competitors do not. If you can use any language, which do you use?  We chose Lisp.
+For one thing, it was obvious that rapid development would be
+important in this market.  We were all starting from scratch, so
+a company that could get new features done before its competitors
+would have a big advantage.  We knew Lisp was a really good language
+for writing software quickly, and server-based applications magnify
+the effect of rapid development, because you can release software
+the minute it's done
+
+Question: <question>
+Answer:","<answer>
+**
+
+Q: What is the primary reason for choosing Lisp?
+A: Companies that try to pretend nothing has changed risk finding that their competitors do not.
+
+**Q: Why is Lisp a good language for software development?
+A: Lisp is a really good language for writing software quickly and server-based applications magnify the effect of rapid development.**
+
+**Q: What is the main goal of the team's decision to choose Lisp?
+A: To gain a competitive advantage by using Lisp.**
+**Q: How does Lisp help with rapid development?
+A: It allows companies to"
+"Context:  One reason the young sometimes
+succeed where the old fail is that they don't realize how incompetent
+they are.  This lets them do a kind of deficit spending.  When they
+first start working on something, they overrate their achievements.
+But that gives them confidence to keep working, and their performance
+improves.  Whereas someone clearer-eyed would see their initial
+incompetence for what it was, and perhaps be discouraged from
+continuing. There's one other major component of determination: ambition.  If
+willfulness and discipline are what get you to your destination,
+ambition is how you choose it
+
+Question: <question>
+Answer:","<answer>
+---
+
+Q: What is the main reason young people succeed where older people fail?
+A: They don't realize how incompetent they are.
+---
+
+Q: What is the effect of recognizing one's incompetence?
+A: They overrate their achievements, and their performance improves.
+---
+
+Q: What role does ambition play in the success of young people?
+A: Ambition is how you choose it.
+---
+
+Q: How does the excerpt describe the relationship between young and old people?
+A: The excerpt describes a difference in how they approach challenges and successes.
+---"
+"Context:  Many are annoyed that these
+so-called startups get all the attention, when hardly any of them
+will amount to anything. If they stepped back and looked at the whole picture they might be
+less indignant.  The mistake they're making is that by basing their
+opinions on anecdotal evidence they're implicitly judging by the
+median rather than the average.  If you judge by the median startup,
+the whole concept of a startup seems like a fraud.  You have to
+invent a bubble to explain why founders want to start them or
+investors want to fund them.  But it's a mistake to use the median
+in a domain with so much variation
+
+Question: <question>
+Answer:","<answer>
+---
+
+**Q: What is the main criticism of basing opinions on anecdotal evidence when judging startups?**
+A: The main criticism is that basing opinions on anecdotal evidence implicitly judges by the median rather than the average, leading to a dismissal of the concept of a startup as a fraud.
+
+**Q: Why is it important to look at the whole picture and not just rely on anecdotal evidence when judging startups?**
+A: It's important to look at the whole picture because the median startup is a mistake to use as a basis for judging the concept of a startup, and it's a mistake to invent a bubble to"
